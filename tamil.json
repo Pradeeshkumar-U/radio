@@ -1,0 +1,2780 @@
+[
+  {
+    "channel_name": "Kodai FM 100.5 MHz",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/master.m3u8",
+    "category": "AIR (All India Radio)",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kodai%20FM%20100.5%20MHz.jpg"
+  },
+  {
+    "channel_name": "Hello FM Chennai",
+    "streaming_link": "https://strw3.openstream.co/1313?aw_0_1st.collectionid%3D4428%26stationId%3D4428%26publisherId%3D1337%26k%3D1750504642",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Hello%20FM%20Chennai.jpg"
+  },
+  {
+    "channel_name": "Trichy FM Rainbow",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/master.m3u8",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Trichy%20FM%20Rainbow.jpg"
+  },
+  {
+    "channel_name": "THR Raaga",
+    "streaming_link": "https://strw3.openstream.co/608?aw_0_1st.collectionid%3D7044%26stationId%3D7044%26publisherId%3D632%26k%3D1750504714",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/THR%20Raaga.jpg"
+  },
+  {
+    "channel_name": "Radio Mirchi Tamil",
+    "streaming_link": "https://radios.crabdance.com:8002/1",
+    "category": "News",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20Mirchi%20Tamil.jpg"
+  },
+  {
+    "channel_name": "Ilangai Vaanoli 873 KHZ",
+    "streaming_link": "https://stream-161.zeno.fm/c524y0kx8vzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNTI0eTBreDh2enV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imx6VnA5dnJJU1FlcnJxdlFpaHZaT0EiLCJpYXQiOjE3NTA1MDQ3NzgsImV4cCI6MTc1MDUwNDgzOH0.Pf3Q72xS5UvwIy0YYfryJ9uEizGC_3KXnqbR5t7Nkw8",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Ilangai%20Vaanoli%20873%20KHZ.jpg"
+  },
+  {
+    "channel_name": "Capital FM",
+    "streaming_link": "https://cp12.serverse.com/proxy/vasanthamfm?mp=/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Capital%20FM.jpg"
+  },
+  {
+    "channel_name": "Tamil Sun FM",
+    "streaming_link": "https://usa2.fastcast4u.com/proxy/tamilsun?mp=/;",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Sun%20FM.jpg"
+  },
+  {
+    "channel_name": "Tamil FM",
+    "streaming_link": "https://shaincast.caster.fm:47814/listen.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20FM.jpg"
+  },
+  {
+    "channel_name": "Vaigai FM",
+    "streaming_link": "https://cast1.asurahosting.com/proxy/geethan3/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vaigai%20FM.jpg"
+  },
+  {
+    "channel_name": "Vasantham FM",
+    "streaming_link": "https://cp12.serverse.com/proxy/vasanthamfm?mp=/stream",
+    "category": "News",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vasantham%20FM.jpg"
+  },
+  {
+    "channel_name": "80’s Tamil Hits",
+    "streaming_link": "https://stream-160.zeno.fm/48w230kx8vzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0OHcyMzBreDh2enV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImprMmNiQ0JZVGppNjhGcUY5Y1Y5dXciLCJpYXQiOjE3NTA1MDQ5NjQsImV4cCI6MTc1MDUwNTAyNH0.cjPLCvCCkNlLoLnPuErGyo2tQ048ZrZZse49p6eHRAg",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/80%E2%80%99s%20Tamil%20Hits.jpg"
+  },
+  {
+    "channel_name": "Radio Paramakurichi",
+    "streaming_link": "https://vpmurugun.radioca.st/autodj",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20Paramakurichi.jpg"
+  },
+  {
+    "channel_name": "Kumari FM Nagercoil",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/masterlist.m3u8",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kumari%20FM%20Nagercoil.jpg"
+  },
+  {
+    "channel_name": "Thaalam FM",
+    "streaming_link": "https://ec4.yesstreaming.net:1990/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thaalam%20FM.jpg"
+  },
+  {
+    "channel_name": "Radio City Tamil",
+    "streaming_link": "https://strw3.openstream.co/1311?aw_0_1st.collectionid%3D4426%26stationId%3D4426%26publisherId%3D1335%26k%3D1750505080",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20City%20Tamil.jpg"
+  },
+  {
+    "channel_name": "A9 Radio",
+    "streaming_link": "https://a9radio1-a9media.radioca.st/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/A9%20Radio.jpg"
+  },
+  {
+    "channel_name": "Ilaiyaraja Radio",
+    "streaming_link": "https://sp14.instainternet.com/8090/stream",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Ilaiyaraja%20Radio.jpg"
+  },
+  {
+    "channel_name": "Shakthi FM",
+    "streaming_link": "https://mbc.thestreamtech.com:8086/index.html",
+    "category": "News",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Shakthi%20FM.jpg"
+  },
+  {
+    "channel_name": "Old Hits",
+    "streaming_link": "https://a9oldhits-a9media.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Old%20Hits.jpg"
+  },
+  {
+    "channel_name": "Radio Gilli",
+    "streaming_link": "https://stream4.rcast.net/66462",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20Gilli.jpg"
+  },
+  {
+    "channel_name": "Radio Thamil HD",
+    "streaming_link": "https://live.cmr24.net/CMR/TamilHD-MQ/icecast.audio",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20Thamil%20HD.jpg"
+  },
+  {
+    "channel_name": "Thamil Thai FM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://radio.massstream.net:8010/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thamil%20Thai%20FM.jpg"
+  },
+  {
+    "channel_name": "Canadian Tamil Radio CTR",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://198.27.66.225:8498/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Canadian%20Tamil%20Radio%20CTR.jpg"
+  },
+  {
+    "channel_name": "Isaiyoli radio",
+    "streaming_link": "https://centova71.instainternet.com/proxy/isaiolifmadmin?mp=/stream&1691245966241",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Isaiyoli%20radio.jpg"
+  },
+  {
+    "channel_name": "89.4 Tamil FM",
+    "streaming_link": "https://centova.aarenworld.com/proxy/894tamilfm/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/89.4%20Tamil%20FM.jpg"
+  },
+  {
+    "channel_name": "Thoni FM 91.2",
+    "streaming_link": "https://spserver.sscast2u.in/thonimedia/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thoni%20FM%2091.2.jpg"
+  },
+  {
+    "channel_name": "Namathu FM",
+    "streaming_link": "https://s3.voscast.com:10527/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Namathu%20FM.jpg"
+  },
+  {
+    "channel_name": "90’s Tamil Melodies",
+    "streaming_link": "https://stream-161.zeno.fm/tqnws2eafwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0cW53czJlYWZ3enV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlFXdUN1QzZlU19pbmN2Wl9TelMyVnciLCJpYXQiOjE3NTA1MDU0NjAsImV4cCI6MTc1MDUwNTUyMH0.2Pf8fltWxXZCeSPUbxEUadPcW0uMgAA7Vtq9bN7WLBY",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/90%E2%80%99s%20Tamil%20Melodies.jpg"
+  },
+  {
+    "channel_name": "AR Rahman",
+    "streaming_link": "https://stream.zeno.fm/ihpr0rqzoxquv",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/AR%20Rahman.jpg"
+  },
+  {
+    "channel_name": "Arni City FM",
+    "streaming_link": "https://usa9.fastcast4u.com/proxy/arnifm?mp=/1",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Arni%20City%20FM.jpg"
+  },
+  {
+    "channel_name": "Sahara FM",
+    "streaming_link": "https://azuracast.vibesounds.in:8000/radio.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sahara%20FM.jpg"
+  },
+  {
+    "channel_name": "Aaruthal FM",
+    "streaming_link": "https://c22.radioboss.fm:8532/jehovahrapha",
+    "category": "Christian",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Aaruthal%20FM.jpg"
+  },
+  {
+    "channel_name": "Thendral FM SLBC",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://220.247.227.20:8000/Threndralstream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thendral%20FM%20SLBC.jpg"
+  },
+  {
+    "channel_name": "Big FM Tamil",
+    "streaming_link": "https://strw3.openstream.co/1319?aw_0_1st.collectionid%3D4434%26stationId%3D4434%26publisherId%3D1343%26k%3D1750505678",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Big%20FM%20Tamil.jpg"
+  },
+  {
+    "channel_name": "Radio Suno Tamil",
+    "streaming_link": "https://16603.live.streamtheworld.com/RADIO_SUNO_TAMIL_S01.mp3",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20Suno%20Tamil.jpg"
+  },
+  {
+    "channel_name": "Minnal FM",
+    "streaming_link": "https://28153.live.streamtheworld.com/MINNAL_FMAAC.aac",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Minnal%20FM.jpg"
+  },
+  {
+    "channel_name": "Mellisai FM",
+    "streaming_link": "https://stream-160.zeno.fm/e9hsbbbey4zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlOWhzYmJiZXk0enV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlNNMWNiSmRFU2FLc2hOelBCbk1lM2ciLCJpYXQiOjE3NTA1MDU3NTYsImV4cCI6MTc1MDUwNTgxNn0.wr67smGtew1ylhqmlEhq56lhRMX-zUlNyImYO3jC8wA",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Mellisai%20FM.jpg"
+  },
+  {
+    "channel_name": "Pothikai FM",
+    "streaming_link": "https://mars.streamerr.co/8274/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Pothikai%20FM.jpg"
+  },
+  {
+    "channel_name": "Thaalam Radio",
+    "streaming_link": "https://thaalam.out.airtime.pro/thaalam_b",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thaalam%20Radio.jpg"
+  },
+  {
+    "channel_name": "Thenkasi FM Radio",
+    "streaming_link": "https://stream.zeno.fm/1wq6xebz6k0uv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thenkasi%20FM%20Radio.jpg"
+  },
+  {
+    "channel_name": "Sooriyan FM",
+    "streaming_link": "https://radio.lotustechnologieslk.net:8006/;stream.mp3",
+    "category": "News",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sooriyan%20FM.jpg"
+  },
+  {
+    "channel_name": "Erode City FM",
+    "streaming_link": "https://stream-178.zeno.fm/9fp1383f0d0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5ZnAxMzgzZjBkMHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkUyTG5OeURVU0ptMkhVVGNpaEdBWXciLCJpYXQiOjE3NTA1MDU4OTcsImV4cCI6MTc1MDUwNTk1N30._tlcwBa8xFmkEmqT5NE2XD18SPWktj8vBFae4DhRyx4",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Erode%20City%20FM.jpg"
+  },
+  {
+    "channel_name": "Covai FM",
+    "streaming_link": "https://stream-159.zeno.fm/kzd2e3tx24zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJremQyZTN0eDI0enV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imk5RGtBTk9RVERDVEg2SHJ0Q091dlEiLCJpYXQiOjE3NTA1MDU5MjksImV4cCI6MTc1MDUwNTk4OX0.M36T_wei-AXMNhspimYITmYI7Q5Q9wyF0dCiiR8RhZ8",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Covai%20FM.jpg"
+  },
+  {
+    "channel_name": "Radio 008 FM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://136.243.44.41:8692/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20008%20FM.jpg"
+  },
+  {
+    "channel_name": "Tamil Cholai Radio",
+    "streaming_link": "https://liveradio.tcradio.net/listen/listentamil_cholai_online_2.0tamilcholai/liveradio.tcradio.net",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Cholai%20Radio.jpg"
+  },
+  {
+    "channel_name": "Nanban FM",
+    "streaming_link": "https://nanbanfm-unicast2u.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Nanban%20FM.jpg"
+  },
+  {
+    "channel_name": "SPB Radio",
+    "streaming_link": "https://stream.zeno.fm/9adkzdcqi4jvv",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/SPB%20Radio.jpg"
+  },
+  {
+    "channel_name": "Tamil Panpalai Gold",
+    "streaming_link": "https://tamilpanpalai.radioca.st/ind",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Panpalai%20Gold.jpg"
+  },
+  {
+    "channel_name": "TRT Tamil Oli",
+    "streaming_link": "https://radio13.pro-fhi.net:19236/stream.mp3",
+    "category": "Christian",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/TRT%20Tamil%20Oli.jpg"
+  },
+  {
+    "channel_name": "Nellai Tamil FM",
+    "streaming_link": "https://stream-174.zeno.fm/5nu139840tzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1bnUxMzk4NDB0enV2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhZOTBxUldSUzI2djl4UXd5LUZ3bEEiLCJpYXQiOjE3NTA1MDYyMDMsImV4cCI6MTc1MDUwNjI2M30.XLku965oglWmRWiU03GIV6rpkVzp6XvWb-l4qIiuFSs",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Nellai%20Tamil%20FM.jpg"
+  },
+  {
+    "channel_name": "SLBC Tamil National Service",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://220.247.227.6:8000/Tnsstream",
+    "category": "News",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/SLBC%20Tamil%20National%20Service.jpg"
+  },
+  {
+    "channel_name": "iYaliSai Bhakti Radio",
+    "streaming_link": "https://mhariraa.radioca.st/stream",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/iYaliSai%20Bhakti%20Radio.jpg"
+  },
+  {
+    "channel_name": "Vividh Bharati Chennai",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+    "category": "AIR (All India Radio)",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vividh%20Bharati%20Chennai.jpg"
+  },
+  {
+    "channel_name": "Air Madurai FM 103.3",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8",
+    "category": "AIR (All India Radio)",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Air%20Madurai%20FM%20103.3.jpg"
+  },
+  {
+    "channel_name": "Thenaruvi FM",
+    "streaming_link": "https://thenaruvivaanoli.radioca.st/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thenaruvi%20FM.jpg"
+  },
+  {
+    "channel_name": "AIR Karaikal FM",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/masterlist.m3u8",
+    "category": "AIR (All India Radio)",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/AIR%20Karaikal%20FM.jpg"
+  },
+  {
+    "channel_name": "Harris Jeyaraj",
+    "streaming_link": "https://stream-153.zeno.fm/0bhsthssutzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwYmhzdGhzc3V0enV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImdtNDF6NENIU3pxTWRXRHFkM2d3NGciLCJpYXQiOjE3NTA1MDY1MTAsImV4cCI6MTc1MDUwNjU3MH0.f9Js2Zsfpj0CFapSWmNa79rZuVApIRbvNp36TGtey5M",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Harris%20Jeyaraj.jpg"
+  },
+  {
+    "channel_name": "K J Yesudas radio",
+    "streaming_link": "https://stream-179.zeno.fm/cm41kq2trg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjbTQxa3EydHJnMHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InlWN3dTbHVQUmpDSXZEM2QxVzIwNGciLCJpYXQiOjE3NTA1MDY1MzksImV4cCI6MTc1MDUwNjU5OX0.e8XF0uX4zjCJ4fC4nrwoLSF9pac-EpqtJnDqu_tla64",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/K%20J%20Yesudas%20radio.jpg"
+  },
+  {
+    "channel_name": "Mirchi Tamil Hits",
+    "streaming_link": "https://free.rcast.net/72516",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Mirchi%20Tamil%20Hits.jpg"
+  },
+  {
+    "channel_name": "AIR Dharmapuri FM",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8",
+    "category": "AIR (All India Radio)",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/AIR%20Dharmapuri%20FM.jpg"
+  },
+  {
+    "channel_name": "Aalayam FM",
+    "streaming_link": "https://stream-175.zeno.fm/etwnrhnbkbruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJldHducmhuYmticnV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjdEdXlzVERFUzVLMmk0RDFrUDNjX3ciLCJpYXQiOjE3NTA1MDY2NDUsImV4cCI6MTc1MDUwNjcwNX0.TD0Lx0Brja-zmdMVJvulw71yAqU5XVn2J9s8x18ZvCU",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Aalayam%20FM.jpg"
+  },
+  {
+    "channel_name": "IBC Tamil Radio",
+    "streaming_link": "https://rbx2.hnux.com/http://10454.cloudrad.io:6176/;stream.mp3",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/IBC%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "Athavan Radio",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://s1.voscast.com:9038/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Athavan%20Radio.jpg"
+  },
+  {
+    "channel_name": "Vasantha Ragam FM",
+    "streaming_link": "https://stream.zeno.fm/xpbsngksa2zuv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vasantha%20Ragam%20FM.jpg"
+  },
+  {
+    "channel_name": "Kumbakonam Tamil FM",
+    "streaming_link": "https://centova32.instainternet.com/proxy/angalai5/stream.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kumbakonam%20Tamil%20FM.jpg"
+  },
+  {
+    "channel_name": "KS Chitra Radio",
+    "streaming_link": "https://stream-161.zeno.fm/aad4e51qz7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhYWQ0ZTUxcXo3enV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkJhOTFRYWJrVC1tTHVPV2wwYnRtT2ciLCJpYXQiOjE3NTA1MDY3OTgsImV4cCI6MTc1MDUwNjg1OH0.CKQG11LsRomOn2JgG2BfzXce4zXdqcopaznzx5Z482M",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/KS%20Chitra%20Radio.jpg"
+  },
+  {
+    "channel_name": "Geethavaani FM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://149.56.234.138:8037/;",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Geethavaani%20FM.jpg"
+  },
+  {
+    "channel_name": "Tamil Romantic Radio",
+    "streaming_link": "https://strw3.openstream.co/1993",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Romantic%20Radio.jpg"
+  },
+  {
+    "channel_name": "Radio Petti 5.1",
+    "streaming_link": "https://radiopetti.out.airtime.pro/radiopetti_a",
+    "category": "News",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20Petti%205.1.jpg"
+  },
+  {
+    "channel_name": "Bakthi FM",
+    "streaming_link": "https://stream-175.zeno.fm/0p1p4t7043duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwcDFwNHQ3MDQzZHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImJhZk56RFZJUUFHb28zYnA5WVItY0EiLCJpYXQiOjE3NTA1MDY5ODYsImV4cCI6MTc1MDUwNzA0Nn0.Gklh3pknT5JUQFRNLIr3n6l4b4gv4fAt2Z4cCiNngBY",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Bakthi%20FM.jpg"
+  },
+  {
+    "channel_name": "AIR Ooty FM",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/masterlist.m3u8",
+    "category": "AIR (All India Radio)",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/AIR%20Ooty%20FM.jpg"
+  },
+  {
+    "channel_name": "Muthamil FM 88.9 HD3",
+    "streaming_link": "https://ec4.yesstreaming.net:1990/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Muthamil%20FM%2088.9%20HD3.jpg"
+  },
+  {
+    "channel_name": "Instrumental Music Radio",
+    "streaming_link": "https://azuracast.vibesounds.in:8030/radio.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Instrumental%20Music%20Radio.jpg"
+  },
+  {
+    "channel_name": "Dharisanam FM",
+    "streaming_link": "https://stream-156.zeno.fm/b741tfumhm8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiNzQxdGZ1bWhtOHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjZGZHhKUFM4UWktQ3JGVFN6NHozX2ciLCJpYXQiOjE3NTA1MDcxMjMsImV4cCI6MTc1MDUwNzE4M30.J83HK68pceZpDdnmTBJsQhhY6hVHf9jZIxdObzA6SGk",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Dharisanam%20FM.jpg"
+  },
+  {
+    "channel_name": "Time FM",
+    "streaming_link": "https://neramfm.com:8000/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Time%20FM.jpg"
+  },
+  {
+    "channel_name": "Vijay Radio",
+    "streaming_link": "https://stream-173.zeno.fm/3w6g61p7pa0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzdzZnNjFwN3BhMHV2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlZ4SFhpZ0hvUW8tQ0ZCWnFMaGwxbHciLCJpYXQiOjE3NTA1MDcxNzQsImV4cCI6MTc1MDUwNzIzNH0.0kltdJZffuSYKOa22i7K061OrDxWfI0pfanOzYtWQ3w",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vijay%20Radio.jpg"
+  },
+  {
+    "channel_name": "Swiss Tamil Radio",
+    "streaming_link": "https://usa19.fastcast4u.com/swiss",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Swiss%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "Star Tamil Radio",
+    "streaming_link": "https://mbc.thestreamtech.com:8086/stream",
+    "category": "News",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Star%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "Muslim Vanoli",
+    "streaming_link": "https://stream.muslimvanoli.com:1035/stream",
+    "category": "Muslim",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Muslim%20Vanoli.jpg"
+  },
+  {
+    "channel_name": "Vagai Tamil FM",
+    "streaming_link": "https://vtfm2020-vtfm.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vagai%20Tamil%20FM.jpg"
+  },
+  {
+    "channel_name": "Thasbeeh Radio",
+    "streaming_link": "https://n04.rcs.revma.com/pcr8x50uty8uv?rj-ttl=5&rj-tok=AAABl5JnsAkAMf5YSmj8KuRcOg",
+    "category": "Muslim",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thasbeeh%20Radio.jpg"
+  },
+  {
+    "channel_name": "Rajini Radio",
+    "streaming_link": "https://stream-171.zeno.fm/aqp97f3z238uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhcXA5N2YzejIzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IldoLVdOWk5oU0Etck1TZmJKTFNueFEiLCJpYXQiOjE3NTA1MDczOTksImV4cCI6MTc1MDUwNzQ1OX0.RRlHGfAH4GbDBpmk4EC1Q-fL0usuxRWcDtm8wqUlFE0",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Rajini%20Radio.jpg"
+  },
+  {
+    "channel_name": "Pasumai FM",
+    "streaming_link": "https://spserver.sscast2u.in/pasumaifm/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Pasumai%20FM.jpg"
+  },
+  {
+    "channel_name": "Thayagam Tamil Radio",
+    "streaming_link": "https://s3.yesstreaming.net:17045/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thayagam%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "AIR Tirunelveli",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/masterlist.m3u8",
+    "category": "AIR (All India Radio)",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/AIR%20Tirunelveli.jpg"
+  },
+  {
+    "channel_name": "Bisme Islamic Radio",
+    "streaming_link": "https://n09.rcs.revma.com/pcr8x50uty8uv?rj-ttl=5&rj-tok=AAABl5JqRkEA5Tcec6pnaMJ-Wg",
+    "category": "Muslim",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Bisme%20Islamic%20Radio.jpg"
+  },
+  {
+    "channel_name": "Valipokan FM",
+    "streaming_link": "https://stream-160.zeno.fm/dcts7v7sef9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkY3RzN3Y3c2VmOXV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkExMlkyaHZfVDZxMEd4ZnJTSjM2VmciLCJpYXQiOjE3NTA1MDc1NTksImV4cCI6MTc1MDUwNzYxOX0.HdRGkCpgSfE29OuHyns5UMAzRInJOysc-cjhFFVOnRQ",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Valipokan%20FM.jpg"
+  },
+  {
+    "channel_name": "Eagle FM HD",
+    "streaming_link": "https://streaming.radio.co/sf833cd785/listen",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Eagle%20FM%20HD.jpg"
+  },
+  {
+    "channel_name": "Oli FM",
+    "streaming_link": "https://28393.live.streamtheworld.com/OLI968FMAAC.aac",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Oli%20FM.jpg"
+  },
+  {
+    "channel_name": "Vaikundar Radio",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://comet.shoutca.st:8185/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vaikundar%20Radio.jpg"
+  },
+  {
+    "channel_name": "Tamil Amuthu Radio",
+    "streaming_link": "https://stream-153.zeno.fm/p88vvwd0gm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwODh2dndkMGdtMHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjlDY25pYUZvVGMyb1pHUE5JcTJ3aGciLCJpYXQiOjE3NTA1MDc3MjEsImV4cCI6MTc1MDUwNzc4MX0.wxUibBrfaaaUmx-i4r_5DnjS4rStpPP4iput6g_h0YM",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Amuthu%20Radio.jpg"
+  },
+  {
+    "channel_name": "US Tamil FM",
+    "streaming_link": "https://streaming.radio.co/s0cfc93915/listen",
+    "category": "Christian",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/US%20Tamil%20FM.jpg"
+  },
+  {
+    "channel_name": "ETR FM",
+    "streaming_link": "https://tamilmusiq.radioca.st/stream",
+    "category": "News",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/ETR%20FM.jpg"
+  },
+  {
+    "channel_name": "Magizhchi FM",
+    "streaming_link": "https://usa15.fastcast4u.com/proxy/magizhchifm?mp=/1",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Magizhchi%20FM.jpg"
+  },
+  {
+    "channel_name": "Amudham FM HQ",
+    "streaming_link": "https://strw3.openstream.co/729?aw_0_1st.collectionid%3D6789%26stationId%3D6789%26publisherId%3D753%26k%3D1750507832",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Amudham%20FM%20HQ.jpg"
+  },
+  {
+    "channel_name": "Oorkuruvi FM",
+    "streaming_link": "https://oorkuruvi-unicast2u.radioca.st/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Oorkuruvi%20FM.jpg"
+  },
+  {
+    "channel_name": "Madurai Tamilan Vaanoli",
+    "streaming_link": "https://stream.zeno.fm/y2khmehlihuvv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Madurai%20Tamilan%20Vaanoli.jpg"
+  },
+  {
+    "channel_name": "FM Rainbow Coimbatore",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio017/playlist.m3u8",
+    "category": "AIR (All India Radio)",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/FM%20Rainbow%20Coimbatore.jpg"
+  },
+  {
+    "channel_name": "AIR Tiruchirapalli",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/masterlist.m3u8",
+    "category": "AIR (All India Radio)",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/AIR%20Tiruchirapalli.jpg"
+  },
+  {
+    "channel_name": "Inbathamil oli",
+    "streaming_link": "https://usa7.fastcast4u.com/proxy/ozmediae?mp=/1",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Inbathamil%20oli.jpg"
+  },
+  {
+    "channel_name": "Dindigul Radio",
+    "streaming_link": "https://spserver.sscast2u.in/dindigulcityfm/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Dindigul%20Radio.jpg"
+  },
+  {
+    "channel_name": "TWR India Tamil",
+    "streaming_link": "https://fm.radio882.com/radio/8010/tamil.mp3",
+    "category": "Christian",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/TWR%20India%20Tamil.jpg"
+  },
+  {
+    "channel_name": "Rewind Amudham FM",
+    "streaming_link": "https://a9oldhits-a9media.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Rewind%20Amudham%20FM.jpg"
+  },
+  {
+    "channel_name": "Radio Beat Thaalam",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://live.exertion.in:8050/radio.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20Beat%20Thaalam.jpg"
+  },
+  {
+    "channel_name": "Isai FM",
+    "streaming_link": "https://stream-178.zeno.fm/7b78sdv2x1zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3Yjc4c2R2MngxenV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InBLZV9VYnlQUlZhVDRLUUYxZlVJbEEiLCJpYXQiOjE3NTA1MDgxMzAsImV4cCI6MTc1MDUwODE5MH0.rMjQzjMRnQXMoaI2-PMTDwlRtVtNJ7SzwizeQXDcwcE",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Isai%20FM.jpg"
+  },
+  {
+    "channel_name": "FM Rainbow Tirunelveli",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/master.m3u8",
+    "category": "AIR (All India Radio)",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/FM%20Rainbow%20Tirunelveli.jpg"
+  },
+  {
+    "channel_name": "Thean Tamil Osai",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://192.95.39.65:5187/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thean%20Tamil%20Osai.jpg"
+  },
+  {
+    "channel_name": "Thavakalai Radio",
+    "streaming_link": "https://aadhitamilfm-prabak78.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thavakalai%20Radio.jpg"
+  },
+  {
+    "channel_name": "Kalvi Radio",
+    "streaming_link": "https://stream-175.zeno.fm/xezgztet6whvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4ZXpnenRldDZ3aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjV2aUJmT3ZrU19xOUxJY0xiNlJmTnciLCJpYXQiOjE3NTA1MDgyMzksImV4cCI6MTc1MDUwODI5OX0.VS8Dqq2RQX9Kd-5GBZJ-Xevaka2V2sdQYLUe68PtYDs",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kalvi%20Radio.jpg"
+  },
+  {
+    "channel_name": "Tamil 2021 Latest Hits",
+    "streaming_link": "https://stream-158.zeno.fm/dkxftg6k7tzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJka3hmdGc2azd0enV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjIyV2V5VVN5VFJpbTY3bTNkVEhWQ1EiLCJpYXQiOjE3NTA1MDgyNjMsImV4cCI6MTc1MDUwODMyM30.DYGFzQ6NbzGdIZSH7BRo-D9SRMmYgxvSuoiAYWhaotA",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%202021%20Latest%20Hits.jpg"
+  },
+  {
+    "channel_name": "Colombo Tamil Radio",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://220.247.234.207:8000/cirstream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Colombo%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "CMR Tamil HD Radio",
+    "streaming_link": "https://live.cmr24.net/CMR/TamilHD-HQ/icecast.audio",
+    "category": "News",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/CMR%20Tamil%20HD%20Radio.jpg"
+  },
+  {
+    "channel_name": "Sivan Radio",
+    "streaming_link": "https://sivanradio.radioca.st/stream",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sivan%20Radio.jpg"
+  },
+  {
+    "channel_name": "Evergreen Tamil Radio",
+    "streaming_link": "https://stream-175.zeno.fm/2fhh49f3zf8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyZmhoNDlmM3pmOHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkhER1g0Z3hEUzRhRkhweEt3Q0ZqLXciLCJpYXQiOjE3NTA1MDgzOTgsImV4cCI6MTc1MDUwODQ1OH0.QJp-NsRQo1I19v27viTGMEXUwa8ij2uHBKdvJGj3Zi8",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Evergreen%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "AIR Puducherry",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/masterlist.m3u8",
+    "category": "AIR (All India Radio)",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/AIR%20Puducherry.jpg"
+  },
+  {
+    "channel_name": "Chellam FM",
+    "streaming_link": "https://sugu.radioca.st/stream/;stream/1",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Chellam%20FM.jpg"
+  },
+  {
+    "channel_name": "Asal FM",
+    "streaming_link": "https://stream-176.zeno.fm/pzgws1kc41zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwemd3czFrYzQxenV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InFxSGwzQWh1VGZlNTBNbGNvTG5pMWciLCJpYXQiOjE3NTA1MDg1MzAsImV4cCI6MTc1MDUwODU5MH0.fomx8DyIKZOIL4z4XtIychHIm4d6EgsZFZJJbZ3oo2I",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Asal%20FM.jpg"
+  },
+  {
+    "channel_name": "AIR Tuticorin",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/masterlist.m3u8",
+    "category": "AIR (All India Radio)",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/AIR%20Tuticorin.jpg"
+  },
+  {
+    "channel_name": "Adirai FM 90.4",
+    "streaming_link": "https://listen.radioking.com/radio/188161/stream/230320",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Adirai%20FM%2090.4.jpg"
+  },
+  {
+    "channel_name": "The Tamil Radio",
+    "streaming_link": "https://centova.aarenworld.com/proxy/894tamilfm/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/The%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "East FM",
+    "streaming_link": "https://centova.radioservers.biz/proxy/eastfmc1/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/East%20FM.jpg"
+  },
+  {
+    "channel_name": "Anbu FM",
+    "streaming_link": "https://stream-154.zeno.fm/c2p4f1np4bruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjMnA0ZjFucDRicnV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IktmWU94SUc5VE5hSHBGTVNpZjVFUXciLCJpYXQiOjE3NTA1MDg3MTEsImV4cCI6MTc1MDUwODc3MX0.hpO_kplZEIaZIIJXZM12KtDPYUxhJ_baEbQ8jQt_zsM",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Anbu%20FM.jpg"
+  },
+  {
+    "channel_name": "FM Gold Chennai",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://51.161.10.100:7200/4",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/FM%20Gold%20Chennai.jpg"
+  },
+  {
+    "channel_name": "Vaanambadi Vaanoli",
+    "streaming_link": "https://usa9.fastcast4u.com/proxy/vaanambadifm?mp=/1",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vaanambadi%20Vaanoli.jpg"
+  },
+  {
+    "channel_name": "Thalapathy Radio",
+    "streaming_link": "https://stream-164.zeno.fm/x8byqha4b48uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4OGJ5cWhhNGI0OHV2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjBsT3VSdnhWU3V1U1VTREhuNVpnWkEiLCJpYXQiOjE3NTA1MDg4MTgsImV4cCI6MTc1MDUwODg3OH0.3qbk2pZ35xgJmpGbb2GSk9MmIWITqcpy4WgfKS696G4",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thalapathy%20Radio.jpg"
+  },
+  {
+    "channel_name": "Ara FM 4D",
+    "streaming_link": "https://cast1.asurahosting.com/proxy/aranfm/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Ara%20FM%204D.jpg"
+  },
+  {
+    "channel_name": "Bakthi Malai Radio",
+    "streaming_link": "https://stream.zeno.fm/etqqefy9ydfvv",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Bakthi%20Malai%20Radio.jpg"
+  },
+  {
+    "channel_name": "FM Rainbow Puducherry",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/masterlist.m3u8",
+    "category": "AIR (All India Radio)",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/FM%20Rainbow%20Puducherry.jpg"
+  },
+  {
+    "channel_name": "Devakottai FM",
+    "streaming_link": "https://stream-179.zeno.fm/g93qqb9y9p8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnOTNxcWI5eTlwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik5Ddy1wNDZGUl9HNDlqSVpiczBGdEEiLCJpYXQiOjE3NTA1MDg5NTAsImV4cCI6MTc1MDUwOTAxMH0.0vN4hqNdM2FVfJ29dE9fc3-IjY7ZKfmquHIiNQlmDrQ",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Devakottai%20FM.jpg"
+  },
+  {
+    "channel_name": "Innisai FM",
+    "streaming_link": "https://stream.zeno.fm/4tfp5sph2v8uv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Innisai%20FM.jpg"
+  },
+  {
+    "channel_name": "Kanchi City FM",
+    "streaming_link": "https://stream-179.zeno.fm/5axyng2g838uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1YXh5bmcyZzgzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlVEXy12R1h0UVFtLWg1OExmWnhfQXciLCJpYXQiOjE3NTA1MDkwMDUsImV4cCI6MTc1MDUwOTA2NX0.-m6AbXD2R61wk9jiqUCN72wktWk5r9ekvMjPnnMppOI",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kanchi%20City%20FM.jpg"
+  },
+  {
+    "channel_name": "Isaiyaruvi FM",
+    "streaming_link": "https://cp1.hostcrate.com/8910/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Isaiyaruvi%20FM.jpg"
+  },
+  {
+    "channel_name": "ADA Ceylon FM",
+    "streaming_link": "https://stream-173.zeno.fm/c32gn1eas2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjMzJnbjFlYXMyenV2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ii16NzVnWXFqUTFxNGZCaEI2aVlKZEEiLCJpYXQiOjE3NTA1MDkwNjIsImV4cCI6MTc1MDUwOTEyMn0.R5kqr8E4g4O4eKNdfr_68qIhCa_3Ap-PoJEUK9f39JM",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/ADA%20Ceylon%20FM.jpg"
+  },
+  {
+    "channel_name": "AIR Coimbatore",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8",
+    "category": "AIR (All India Radio)",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/AIR%20Coimbatore.jpg"
+  },
+  {
+    "channel_name": "Maha FM",
+    "streaming_link": "https://cast6.my-control-panel.com/proxy/mahafm?mp=/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Maha%20FM.jpg"
+  },
+  {
+    "channel_name": "Tamil AI FM",
+    "streaming_link": "https://servidor23-4.brlogic.com:7072/live",
+    "category": "AIR (All India Radio)",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20AI%20FM.jpg"
+  },
+  {
+    "channel_name": "AMR Tamil",
+    "streaming_link": "https://live.exertion.in:8030/amrlive",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/AMR%20Tamil.jpg"
+  },
+  {
+    "channel_name": "GTR FM",
+    "streaming_link": "https://eu4.fastcast4u.com/proxy/goguna00?mp=/;",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/GTR%20FM.jpg"
+  },
+  {
+    "channel_name": "AIR Madurai 1269 AM",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8",
+    "category": "AIR (All India Radio)",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/AIR%20Madurai%201269%20AM.jpg"
+  },
+  {
+    "channel_name": "Tamilakaram Radio",
+    "streaming_link": "https://str3.openstream.co/512?aw_0_1st.collectionid%3D7007%26stationId%3D7007%26publisherId%3D536%26k%3D1750509261",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamilakaram%20Radio.jpg"
+  },
+  {
+    "channel_name": "Qatar Radio",
+    "streaming_link": "https://sp.radiotamilonline.com/8018/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Qatar%20Radio.jpg"
+  },
+  {
+    "channel_name": "Thuli Vaanoli",
+    "streaming_link": "https://s4.voscast.com:8735/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thuli%20Vaanoli.jpg"
+  },
+  {
+    "channel_name": "Radio Kumari HD 3D",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio129/playlist.m3u8",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20Kumari%20HD%203D.jpg"
+  },
+  {
+    "channel_name": "Pollachi FM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://104.200.16.182:8000/;",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Pollachi%20FM.jpg"
+  },
+  {
+    "channel_name": "Tamil Comedy Radio",
+    "streaming_link": "https://stream-173.zeno.fm/tmgktm50dzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0bWdrdG01MGR6enV2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjVuMnU2MkIzUktpSXBZcGRGakVuWHciLCJpYXQiOjE3NTA1MDkzOTYsImV4cCI6MTc1MDUwOTQ1Nn0.9K7bjnWX6KdAulKZMUl0X3g2n3tSaIstHpRVTsvaCSY",
+    "category": "Comedy",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Comedy%20Radio.jpg"
+  },
+  {
+    "channel_name": "Kodai Ragam FM",
+    "streaming_link": "https://cast6.my-control-panel.com/proxy/kodairagamradio/stream",
+    "category": "AIR (All India Radio)",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kodai%20Ragam%20FM.jpg"
+  },
+  {
+    "channel_name": "Radio Beat Tamil",
+    "streaming_link": "https://strw3.openstream.co/673?aw_0_1st.collectionid%3D3372%26stationId%3D3372%26publisherId%3D697%26k%3D1750509474",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20Beat%20Tamil.jpg"
+  },
+  {
+    "channel_name": "Tamil Amuthu Bakthi Radio",
+    "streaming_link": "https://stream-155.zeno.fm/bpc3ucypmm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJicGMzdWN5cG1tMHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhvcXp0SmZFU0plaDFJMGhPaDA0YmciLCJpYXQiOjE3NTA1MDk1MDIsImV4cCI6MTc1MDUwOTU2Mn0.nvRT17jrI3EDLfv4W8aRfAiYZ0A6ewSZaOCZHE4hoQY",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Amuthu%20Bakthi%20Radio.jpg"
+  },
+  {
+    "channel_name": "Thendral FM Radio",
+    "streaming_link": "https://stream-158.zeno.fm/xzt706p3h2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4enQ3MDZwM2gyenV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkdmYWd1VTluUS1lTUs5a3N1bk04ZUEiLCJpYXQiOjE3NTA1MDk1NjEsImV4cCI6MTc1MDUwOTYyMX0.DBRsa5gEHTp30GBpMwjBGcnr7U4EfdSwWR37oWm_Ufc",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thendral%20FM%20Radio.jpg"
+  },
+  {
+    "channel_name": "Sai Dheepam FM",
+    "streaming_link": "https://stream-176.zeno.fm/ut4syfwb1k8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1dDRzeWZ3YjFrOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImxfVFpkeVZtU2V1OXcyM1hKX1BZYnciLCJpYXQiOjE3NTA1MDk1ODcsImV4cCI6MTc1MDUwOTY0N30.Ai3dcjoPvha2OyyitnOHNXMUc2vw3kJDsagfEBugzCU",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sai%20Dheepam%20FM.jpg"
+  },
+  {
+    "channel_name": "Japan Tamil Radio",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://162.252.85.85:7388/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Japan%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "Osai FM",
+    "streaming_link": "https://n02.rcs.revma.com/0bprm5vbv4uvv?rj-ttl=5&rj-tok=AAABl5KK-FcA0rGizuHhF0gwGQ",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Osai%20FM.jpg"
+  },
+  {
+    "channel_name": "London Tamil Radio",
+    "streaming_link": "https://eu4.fastcast4u.com/proxy/arun2115?mp=/1",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/London%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "Senthamil FM",
+    "streaming_link": "https://stream-178.zeno.fm/5yf5swm7u7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1eWY1c3dtN3U3enV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkVhdkh1c2hCUlJtc2tZME5FNWR4d3ciLCJpYXQiOjE3NTA1MDk3MjIsImV4cCI6MTc1MDUwOTc4Mn0.jY5ZHB2-Uhf7yi_ATur7mZrH2XyyqB59JccmUZYnSlo",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Senthamil%20FM.jpg"
+  },
+  {
+    "channel_name": "Yugam Radio",
+    "streaming_link": "https://s6.yesstreaming.net:19012/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Yugam%20Radio.jpg"
+  },
+  {
+    "channel_name": "SS Dindigul City FM",
+    "streaming_link": "https://spserver.sscast2u.in/dindigulcityfm/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/SS%20Dindigul%20City%20FM.jpg"
+  },
+  {
+    "channel_name": "Kalaignar FM",
+    "streaming_link": "https://node-10.zeno.fm/x3rmesp5g18uv?rj-ttl=5&rj-tok=AAABfvIYmnMAEwu_kdBD9SXO4A",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kalaignar%20FM.jpg"
+  },
+  {
+    "channel_name": "Lankasri FM",
+    "streaming_link": "https://rbx2.hnux.com/http://5984.cloudrad.io:8032/;stream.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Lankasri%20FM.jpg"
+  },
+  {
+    "channel_name": "Vaagai Vaanoli",
+    "streaming_link": "https://vaagai.radioca.st/stream2/listen",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vaagai%20Vaanoli.jpg"
+  },
+  {
+    "channel_name": "Kodai City FM",
+    "streaming_link": "https://listen.openstream.co/6812/audio",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kodai%20City%20FM.jpg"
+  },
+  {
+    "channel_name": "Suryan FM",
+    "streaming_link": "https://strw3.openstream.co/562?aw_0_1st.collectionid%3D6714%26stationId%3D6714%26publisherId%3D586%26k%3D1750509952",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Suryan%20FM.jpg"
+  },
+  {
+    "channel_name": "Krishna FM",
+    "streaming_link": "https://stream-176.zeno.fm/gdpufetpuy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnZHB1ZmV0cHV5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkVRbGJGLVBDUS0ydU9KMFdCLUoyNUEiLCJpYXQiOjE3NTA1MTAwNTksImV4cCI6MTc1MDUxMDExOX0.TGLiBCKJu7mT8Ufap9F698f-20dWrRbnAPYFLwj_Q2Q",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Krishna%20FM.jpg"
+  },
+  {
+    "channel_name": "Thedal FM",
+    "streaming_link": "https://stream.zeno.fm/r0psth6htnhvv",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thedal%20FM.jpg"
+  },
+  {
+    "channel_name": "Roobam FM",
+    "streaming_link": "https://s3.radio.co/sadfae7495/listen",
+    "category": "News",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Roobam%20FM.jpg"
+  },
+  {
+    "channel_name": "Russia Tamil Radio",
+    "streaming_link": "https://stream-176.zeno.fm/r2ff41404k8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyMmZmNDE0MDRrOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik9JZmcxbjZJU2lPckdDdERJb1p1aFEiLCJpYXQiOjE3NTA1MTAyMDEsImV4cCI6MTc1MDUxMDI2MX0.jQiQYIOmJdC1oukZUNCGHXxU41Aafsrbn_Q8PqBIxNM",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Russia%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "Sun Tamil Radio",
+    "streaming_link": "https://stream-162.zeno.fm/yavek61461zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5YXZlazYxNDYxenV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkV0WGY5VGVHUlVPUUxtcjgtdW5SdWciLCJpYXQiOjE3NTA1MTAyNDgsImV4cCI6MTc1MDUxMDMwOH0.y2kzZNGyBHO7Ok07DRcShb3mhvPTeGl1FCdGKBM3qsA",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sun%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "American Tamil Radio",
+    "streaming_link": "https://cp11.serverse.com/proxy/hgsmgluv?mp=/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/American%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "Tamil Murasam",
+    "streaming_link": "https://tamilmurasam.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Murasam.jpg"
+  },
+  {
+    "channel_name": "CTBC Radio",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://ctbcfmradio.primcast.com:4086/;",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/CTBC%20Radio.jpg"
+  },
+  {
+    "channel_name": "Amudha Ragam",
+    "streaming_link": "https://spserver.sscast2u.in/8014/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Amudha%20Ragam.jpg"
+  },
+  {
+    "channel_name": "Sirpi FM",
+    "streaming_link": "https://sirpifmhd-unicast2u.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sirpi%20FM.jpg"
+  },
+  {
+    "channel_name": "Mazhai FM",
+    "streaming_link": "https://stream-159.zeno.fm/yu4c9ms3h2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5dTRjOW1zM2gyenV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im4yTFZOVVpCUlR1WjJyZUY0SkJub0EiLCJpYXQiOjE3NTA1MTA0MzcsImV4cCI6MTc1MDUxMDQ5N30.Sh_LDcVX_8B3ikg4T382b6kx9ycVtiScMnxxnU3pfHg",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Mazhai%20FM.jpg"
+  },
+  {
+    "channel_name": "Vanavasi City FM",
+    "streaming_link": "https://stream-176.zeno.fm/ncadrc1qvy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuY2FkcmMxcXZ5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im1NbENnZVB0UmlPTF8zNHdsWEk4Y2ciLCJpYXQiOjE3NTA1MTA0NjUsImV4cCI6MTc1MDUxMDUyNX0.Cg-2UC1B6AHFBEuNP6Aosdvho9nVwVvAl4ZdLiaUy1c",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vanavasi%20City%20FM.jpg"
+  },
+  {
+    "channel_name": "Yuwave Radio",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://perseverance.shoutca.st:8482/stream?type=http&nocache=2",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Yuwave%20Radio.jpg"
+  },
+  {
+    "channel_name": "Jipmer Radio",
+    "streaming_link": "https://d1d1ao70vmf9ux.cloudfront.net/jipmer.m3u8",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Jipmer%20Radio.jpg"
+  },
+  {
+    "channel_name": "ILC Tamil Radio",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://s2.voscast.com:9370/;",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/ILC%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "Star Radio Tamil",
+    "streaming_link": "https://stream.zeno.fm/dqbd4gngkf9uv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Star%20Radio%20Tamil.jpg"
+  },
+  {
+    "channel_name": "Bethel FM Radio",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://e12392.cloudrad.io:8992/stream",
+    "category": "Christian",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Bethel%20FM%20Radio.jpg"
+  },
+  {
+    "channel_name": "Vaanam FM HD",
+    "streaming_link": "https://fra-ranger01.dedicateware.com:8008/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vaanam%20FM%20HD.jpg"
+  },
+  {
+    "channel_name": "Hari Tamil FM",
+    "streaming_link": "https://haritamilfm-prabak78.radioca.st/stream",
+    "category": "News",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Hari%20Tamil%20FM.jpg"
+  },
+  {
+    "channel_name": "Dheepam FM",
+    "streaming_link": "https://stream-175.zeno.fm/hszf3agf0k8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoc3pmM2FnZjBrOHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImdPZkVJTHRWUWx5V1ppNW1jdDJhcXciLCJpYXQiOjE3NTA1MTA3MzgsImV4cCI6MTc1MDUxMDc5OH0.Bzh1sS0ncFBlH5-NLlzxotM0qIvwYEtuo3muK3qPJWk",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Dheepam%20FM.jpg"
+  },
+  {
+    "channel_name": "Eye Tamil Radio",
+    "streaming_link": "https://streams.radio.co/s937ac5492/listen",
+    "category": "News",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Eye%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "Aruvi Vanoli",
+    "streaming_link": "https://spserver.sscast2u.in/kodaiaruvifm/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Aruvi%20Vanoli.jpg"
+  },
+  {
+    "channel_name": "Ullasam FM",
+    "streaming_link": "https://eu10.fastcast4u.com:6740/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Ullasam%20FM.jpg"
+  },
+  {
+    "channel_name": "Kalasam FM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://us9.streamingpulse.com:7051/live",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kalasam%20FM.jpg"
+  },
+  {
+    "channel_name": "Magizh Asia HD",
+    "streaming_link": "https://stream-179.zeno.fm/vqq7av4d8yzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2cXE3YXY0ZDh5enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImhlUlJMUWh1UlRPYVg5S1VXQ3FGclEiLCJpYXQiOjE3NTA1MTA5MjQsImV4cCI6MTc1MDUxMDk4NH0.tD7kWT04uBxE2Pcw0XZgZQWts2Cf1zhzuyJRTqAds-Y",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Magizh%20Asia%20HD.jpg"
+  },
+  {
+    "channel_name": "Shyamalavani Radio",
+    "streaming_link": "https://stream-42.zeno.fm/0n3rzntvpfhvv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Shyamalavani%20Radio.jpg"
+  },
+  {
+    "channel_name": "Isai Tamil Radio",
+    "streaming_link": "https://spserver.sscast2u.in/isaitamilfm/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Isai%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "Arumbu FM",
+    "streaming_link": "https://stream-155.zeno.fm/22db1xmde2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyMmRiMXhtZGUyenV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlNXMnZSVzliVHctT2hmRGhNUXZEUVEiLCJpYXQiOjE3NTA1MTEwMzcsImV4cCI6MTc1MDUxMTA5N30.9aEJQjsZfMbgyHwkQASlmhXJd314VGkPtROOPigmxgM",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Arumbu%20FM.jpg"
+  },
+  {
+    "channel_name": "Tamil Amuthu Covai Radio",
+    "streaming_link": "https://stream-158.zeno.fm/dzxv07vktp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkenh2MDd2a3RwOHV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik9OblV1QU41VENTR3NPVExQOTBoLUEiLCJpYXQiOjE3NTA1MTEwNjIsImV4cCI6MTc1MDUxMTEyMn0.ZlFPCL0FCNw7CDoKqCCCE0Q6DV0c1FszCeg-RgSloXo",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Amuthu%20Covai%20Radio.jpg"
+  },
+  {
+    "channel_name": "Tamil Latest Hits Radio",
+    "streaming_link": "https://stream-158.zeno.fm/dkxftg6k7tzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJka3hmdGc2azd0enV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImNGcXdsYWs3VDhhSTNXOVV6d1p3MkEiLCJpYXQiOjE3NTA1MTEwODcsImV4cCI6MTc1MDUxMTE0N30.881cC5oDcbKScnukmoRa5DXgSDchlCV2GZykVUoWJYc",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Latest%20Hits%20Radio.jpg"
+  },
+  {
+    "channel_name": "G Tamil FM",
+    "streaming_link": "https://gtr-unicast2u.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/G%20Tamil%20FM.jpg"
+  },
+  {
+    "channel_name": "Jehovahrapha FM",
+    "streaming_link": "https://c22.radioboss.fm:8532/jehovahrapha",
+    "category": "Christian",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Jehovahrapha%20FM.jpg"
+  },
+  {
+    "channel_name": "Mukil FM Radio",
+    "streaming_link": "https://stream-155.zeno.fm/phv06yfkwzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwaHYwNnlma3d6enV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjB3WEpBTVJOUzNxR1B1NU5qU09GOFEiLCJpYXQiOjE3NTA1MTEyMjksImV4cCI6MTc1MDUxMTI4OX0.veVUCFPV8V1wpB0kG0tRUN_fkB86W-ru0e5sSn8jOhM",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Mukil%20FM%20Radio.jpg"
+  },
+  {
+    "channel_name": "Kodai Aruvi FM",
+    "streaming_link": "https://spserver.sscast2u.in/kodaiaruvifm/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kodai%20Aruvi%20FM.jpg"
+  },
+  {
+    "channel_name": "Mathinila FM",
+    "streaming_link": "https://nilafmhd-unicast2u.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Mathinila%20FM.jpg"
+  },
+  {
+    "channel_name": "Radio Mist Ooty",
+    "streaming_link": "https://stream-176.zeno.fm/81gn28sbna0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4MWduMjhzYm5hMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InJKQ3hkNmlEUUJTaTN1MzJHVERFQlEiLCJpYXQiOjE3NTA1MTEzNDgsImV4cCI6MTc1MDUxMTQwOH0.4pw43uvASrWat2WSyoAWWUECVQ_Uq0_3bD0tvb5ccU4",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20Mist%20Ooty.jpg"
+  },
+  {
+    "channel_name": "Tamil Panpalai Oceania",
+    "streaming_link": "https://tamilpanpalai.radioca.st/ind",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Panpalai%20Oceania.jpg"
+  },
+  {
+    "channel_name": "Star FM",
+    "streaming_link": "https://stream.starfm.lk:12025/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Star%20FM.jpg"
+  },
+  {
+    "channel_name": "Mukil FM",
+    "streaming_link": "https://stream-156.zeno.fm/9s8119m1rzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5czgxMTltMXJ6enV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlNUUUxZMHhqUmdxZHN2TEFidi1aTVEiLCJpYXQiOjE3NTA1MTE0NzMsImV4cCI6MTc1MDUxMTUzM30.SixCs0crDwWxjT8fDq6TisEwBbjfe_sx03jirxh-PKs",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Mukil%20FM.jpg"
+  },
+  {
+    "channel_name": "Kadhal Amudham",
+    "streaming_link": "https://live.exertion.in:8020/radio.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kadhal%20Amudham.jpg"
+  },
+  {
+    "channel_name": "Punnagai Radio",
+    "streaming_link": "https://sp.radiotamilonline.com/8146/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Punnagai%20Radio.jpg"
+  },
+  {
+    "channel_name": "Tamil Amuthu Sivakasi Radio",
+    "streaming_link": "https://stream.zeno.fm/nxggffwgtp8uv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Amuthu%20Sivakasi%20Radio.jpg"
+  },
+  {
+    "channel_name": "Thuthi FM",
+    "streaming_link": "https://streams.radio.co/s790fe269d/listen",
+    "category": "Christian",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thuthi%20FM.jpg"
+  },
+  {
+    "channel_name": "ATBC Radio",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://s7.viastreaming.net:7920/;",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/ATBC%20Radio.jpg"
+  },
+  {
+    "channel_name": "Lakshmi FM",
+    "streaming_link": "https://cast6.my-control-panel.com/proxy/lakshmifm?mp=/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Lakshmi%20FM.jpg"
+  },
+  {
+    "channel_name": "The Leader FM",
+    "streaming_link": "https://stream-161.zeno.fm/whwy245c2wzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3aHd5MjQ1YzJ3enV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImRMLUJTUmxkUnltemJjaXU2aC1RVnciLCJpYXQiOjE3NTA1MTE3NjcsImV4cCI6MTc1MDUxMTgyN30.8UonUKefOaE3w4hfiUD64fCqBGV7Mi1iytwR5AHkRV0",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/The%20Leader%20FM.jpg"
+  },
+  {
+    "channel_name": "Yaazhisai FM",
+    "streaming_link": "https://stream-153.zeno.fm/nxb2dpmmhm8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJueGIyZHBtbWhtOHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InNSU2tfendSUTZxR21jM1VFelUwaHciLCJpYXQiOjE3NTA1MTE4MTYsImV4cCI6MTc1MDUxMTg3Nn0.OswI6QRQOIOfGY_BT9I8ttrSIgDNEp9ZuKse8SQVwgU",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Yaazhisai%20FM.jpg"
+  },
+  {
+    "channel_name": "Vettri Vaanoli",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://s2.voscast.com:12136/;stream.mp3?1639674365578",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vettri%20Vaanoli.jpg"
+  },
+  {
+    "channel_name": "Jaffna Zone FM",
+    "streaming_link": "https://jaffnazonefm.radioca.st/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Jaffna%20Zone%20FM.jpg"
+  },
+  {
+    "channel_name": "Tamil Amuthu Kovilpatti Radio",
+    "streaming_link": "https://stream-162.zeno.fm/4cmhxc3ktp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0Y21oeGMza3RwOHV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImpmeFdoX1ZIU05PMDhuMWhEZ3kxVXciLCJpYXQiOjE3NTA1MTE5MDYsImV4cCI6MTc1MDUxMTk2Nn0.0MXTMICEGqHyFfe1sHS4ShTUF7xhLy59pVd7Q7cbpfI",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Amuthu%20Kovilpatti%20Radio.jpg"
+  },
+  {
+    "channel_name": "Malayagam FM",
+    "streaming_link": "https://malayagamfm.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Malayagam%20FM.jpg"
+  },
+  {
+    "channel_name": "Isaimurasu FM",
+    "streaming_link": "https://usa8.fastcast4u.com/proxy/isaimurasufm?mp=/1",
+    "category": "Muslim",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Isaimurasu%20FM.jpg"
+  },
+  {
+    "channel_name": "Naga FM",
+    "streaming_link": "https://live.nagafm.in:1065/stream",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Naga%20FM.jpg"
+  },
+  {
+    "channel_name": "Sangeetham Radio",
+    "streaming_link": "https://sp.radiotamilonline.com/8258/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sangeetham%20Radio.jpg"
+  },
+  {
+    "channel_name": "Tamil Katerumbu FM",
+    "streaming_link": "https://tamilkaterumbufm-prabak78.radioca.st/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Katerumbu%20FM.jpg"
+  },
+  {
+    "channel_name": "Pozhil FM",
+    "streaming_link": "https://stream.zeno.fm/ssnf4ya44d0uv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Pozhil%20FM.jpg"
+  },
+  {
+    "channel_name": "Global FM 92.3",
+    "streaming_link": "https://centova71.instainternet.com/proxy/globalfm?mp=/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Global%20FM%2092.3.jpg"
+  },
+  {
+    "channel_name": "Ajith FM",
+    "streaming_link": "https://stream-161.zeno.fm/ntkhu40k17zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJudGtodTQwazE3enV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjU4aEpuQVFwVEk2cEt5anlrTWZYWmciLCJpYXQiOjE3NTA1MTIyNzAsImV4cCI6MTc1MDUxMjMzMH0.temAm2P-h2h_hi_G4rDXFejIxdlrJiqrWdZEz6SWcNY",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Ajith%20FM.jpg"
+  },
+  {
+    "channel_name": "Samugam FM",
+    "streaming_link": "https://usa19.fastcast4u.com/eftphimk",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Samugam%20FM.jpg"
+  },
+  {
+    "channel_name": "Radio Tamizha FM",
+    "streaming_link": "https://c22.radioboss.fm:8832/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20Tamizha%20FM.jpg"
+  },
+  {
+    "channel_name": "Tamil Panpalai Africa",
+    "streaming_link": "https://tamilpanpalai.radioca.st/afr",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Panpalai%20Africa.jpg"
+  },
+  {
+    "channel_name": "Life FM",
+    "streaming_link": "https://stream-174.zeno.fm/37tsftts91zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzN3RzZnR0czkxenV2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlhlWnNjWktvUWFDMlQwR3JudXVRb3ciLCJpYXQiOjE3NTA1MTI0ODgsImV4cCI6MTc1MDUxMjU0OH0.15vlZ4viH5feFJwPD4PhD4NGWRyJyGHwbnZB6jIlr2M",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Life%20FM.jpg"
+  },
+  {
+    "channel_name": "Thiruttani City FM",
+    "streaming_link": "https://stream-161.zeno.fm/cry0acaxbcztv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjcnkwYWNheGJjenR2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InQ4UkQtWUV2UTZLdUc5NFp5U2hvM2ciLCJpYXQiOjE3NTA1MTI1NzAsImV4cCI6MTc1MDUxMjYzMH0.8ELQoZCstJXnfzk9_bcI22aJSN2eNGu1YLoNLd2n038",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thiruttani%20City%20FM.jpg"
+  },
+  {
+    "channel_name": "Aavai FM",
+    "streaming_link": "https://stream-157.zeno.fm/kzd2e3tx24zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJremQyZTN0eDI0enV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImtDTFBuYXRuVFcyaXBxV1E5amljbUEiLCJpYXQiOjE3NTA1MTI1OTgsImV4cCI6MTc1MDUxMjY1OH0.RKHAE5yE5xj1iMwM6dgaAADtPZjijKe83e1IPK-SBqM",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Aavai%20FM.jpg"
+  },
+  {
+    "channel_name": "Tamil Amuthu Mellisai radio",
+    "streaming_link": "https://stream-155.zeno.fm/bfh4ywts2f8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiZmg0eXd0czJmOHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InB4d3hiX1ZJUXZ5VkUwRGRpWHRvc2ciLCJpYXQiOjE3NTA1MTI2MzcsImV4cCI6MTc1MDUxMjY5N30.eYRRaradbNKZq7ab9hKLJoXyQ-IGqa0WPeE7RfW6KaY",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Amuthu%20Mellisai%20radio.jpg"
+  },
+  {
+    "channel_name": "Naan Radio",
+    "streaming_link": "https://stream-176.zeno.fm/swgzh04zbg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzd2d6aDA0emJnMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im9qSjFDdTlaUjBHVE9fMUw2Zmo4R2ciLCJpYXQiOjE3NTA1MTI2OTIsImV4cCI6MTc1MDUxMjc1Mn0.b1Y-VIAjeOyec6-t1dJzs-AH-tytMpqSFb6g1i2OrbQ",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Naan%20Radio.jpg"
+  },
+  {
+    "channel_name": "Tamil Amuthu Chennai Radio",
+    "streaming_link": "https://stream.zeno.fm/k9e5pmbktp8uv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Amuthu%20Chennai%20Radio.jpg"
+  },
+  {
+    "channel_name": "Madhuram Radio",
+    "streaming_link": "https://spserver.sscast2u.in/madhuramradio/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Madhuram%20Radio.jpg"
+  },
+  {
+    "channel_name": "Tamil Rocky FM",
+    "streaming_link": "https://centova71.instainternet.com/proxy/tamilrockyfm?mp=/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Rocky%20FM.jpg"
+  },
+  {
+    "channel_name": "தமிழன் வானொலி",
+    "streaming_link": "https://strw1.openstream.co/2377",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%A9%E0%AF%8D%20%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AF%8A%E0%AE%B2%E0%AE%BF.jpg"
+  },
+  {
+    "channel_name": "The Big FM",
+    "streaming_link": "https://s5.voscast.com:9539/s5.voscast.com",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/The%20Big%20FM.jpg"
+  },
+  {
+    "channel_name": "Dance Tamizha Radio",
+    "streaming_link": "https://stream.zeno.fm/2zzz7qre56duv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Dance%20Tamizha%20Radio.jpg"
+  },
+  {
+    "channel_name": "Pattas Radio",
+    "streaming_link": "https://usa2.fastcast4u.com/proxy/tamilsun?mp=/;",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Pattas%20Radio.jpg"
+  },
+  {
+    "channel_name": "Voice of Islam",
+    "streaming_link": "https://str2b.openstream.co/1656",
+    "category": "Muslim",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Voice%20of%20Islam.jpg"
+  },
+  {
+    "channel_name": "ASR Digital Radio",
+    "streaming_link": "https://stream-175.zeno.fm/aqf1rvdnc18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhcWYxcnZkbmMxOHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImJMOGJVOGZWU1MyYmkySWFPQW9oQ0EiLCJpYXQiOjE3NTA1MTMxMjUsImV4cCI6MTc1MDUxMzE4NX0.LloV6oxfaXICYnkUL-C6O7-J28tLbvfJYIxhXjWMgi4",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/ASR%20Digital%20Radio.jpg"
+  },
+  {
+    "channel_name": "Radio JN",
+    "streaming_link": "https://stream.zeno.fm/0wck59rarchvv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20JN.jpg"
+  },
+  {
+    "channel_name": "Sharvam FM",
+    "streaming_link": "https://s9.voscast.com:9551/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sharvam%20FM.jpg"
+  },
+  {
+    "channel_name": "Akashvani Tamil Nadu",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8",
+    "category": "AIR (All India Radio)",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Akashvani%20Tamil%20Nadu.jpg"
+  },
+  {
+    "channel_name": "Akaram Radio",
+    "streaming_link": "https://globalwebmusic.com/akaram.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Akaram%20Radio.jpg"
+  },
+  {
+    "channel_name": "DJ Shifan Radio",
+    "streaming_link": "https://stream-159.zeno.fm/8vw9hec3kwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4dnc5aGVjM2t3enV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjlDU2RDQTlnUk9xUEE4d2hWZ1FtbFEiLCJpYXQiOjE3NTA1MTMzOTEsImV4cCI6MTc1MDUxMzQ1MX0.6vxi1TcmknTyYPQcCwOzn0mqWNuTLWxYAkoikkeiTRQ",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/DJ%20Shifan%20Radio.jpg"
+  },
+  {
+    "channel_name": "Beats Radio",
+    "streaming_link": "https://n0d.radiojar.com/8yx6spzrv4zuv?rj-ttl=5&rj-tok=AAABl5LEKD4Al6lixcY7aX1y1A",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Beats%20Radio.jpg"
+  },
+  {
+    "channel_name": "Paa Radio",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://live.exertion.in:8090/radio.mp3",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Paa%20Radio.jpg"
+  },
+  {
+    "channel_name": "Digial Amudham",
+    "streaming_link": "https://listen.openstream.co/6789/audio",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Digial%20Amudham.jpg"
+  },
+  {
+    "channel_name": "Asathal Amudham",
+    "streaming_link": "https://server.unicast2u.com/radio/8090/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Asathal%20Amudham.jpg"
+  },
+  {
+    "channel_name": "Vannam Radio",
+    "streaming_link": "https://sathees.radioca.st/;?ver=794035",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vannam%20Radio.jpg"
+  },
+  {
+    "channel_name": "Kumari Tamil Radio",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://comet.shoutca.st:8066/;",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kumari%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "Vaa Tamizha",
+    "streaming_link": "https://s3.free-shoutcast.com/stream/18138/;stream.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vaa%20Tamizha.jpg"
+  },
+  {
+    "channel_name": "Thamilaruvi Radio Germany",
+    "streaming_link": "https://servidor18-4.brlogic.com:7740/live",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thamilaruvi%20Radio%20Germany.jpg"
+  },
+  {
+    "channel_name": "Paasam FM",
+    "streaming_link": "https://stream-176.zeno.fm/w8spm96nc18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3OHNwbTk2bmMxOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjdBQ2FEUndtUnhpcDlEcmlrWXN5VlEiLCJpYXQiOjE3NTA1MTQwMzMsImV4cCI6MTc1MDUxNDA5M30.SkVDkdjxDAHSTtCCVVQxMk-vRATwRyemmTsDrz2IUtM",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Paasam%20FM.jpg"
+  },
+  {
+    "channel_name": "Soup FM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://usa7.fastcast4u.com:8808/soupfm",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Soup%20FM.jpg"
+  },
+  {
+    "channel_name": "Mega Zone South",
+    "streaming_link": "https://vm65162.streamerr.co/listen/megazone_south/radio.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Mega%20Zone%20South.jpg"
+  },
+  {
+    "channel_name": "Settai FM",
+    "streaming_link": "https://stream.zeno.fm/402pwrp884zuv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Settai%20FM.jpg"
+  },
+  {
+    "channel_name": "Tamil Amuthu Trichy Radio",
+    "streaming_link": "https://stream-160.zeno.fm/feyrkb9htp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmZXlya2I5aHRwOHV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkFLNHRlZUFFUjJhYnBqaUpBblRNdEEiLCJpYXQiOjE3NTA1MTQyMDMsImV4cCI6MTc1MDUxNDI2M30.08iWKzbxNkDq4dXMAWS_y7mSubfW14g92HAEXtKWJwY",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Amuthu%20Trichy%20Radio.jpg"
+  },
+  {
+    "channel_name": "Vani Online Radio",
+    "streaming_link": "https://spserver.sscast2u.in/8166/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vani%20Online%20Radio.jpg"
+  },
+  {
+    "channel_name": "Radio Vaanam",
+    "streaming_link": "https://fra-ranger01.dedicateware.com:8008/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20Vaanam.jpg"
+  },
+  {
+    "channel_name": "Bakthi Layam FM",
+    "streaming_link": "https://stream.zeno.fm/fbetbdb8t18uv",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Bakthi%20Layam%20FM.jpg"
+  },
+  {
+    "channel_name": "Tamil Ragam",
+    "streaming_link": "https://cast4.my-control-panel.com/proxy/neville?mp=/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Ragam.jpg"
+  },
+  {
+    "channel_name": "Bakthi lsai Radio",
+    "streaming_link": "https://bakthiisai-unicast2u.radioca.st/stream",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Bakthi%20lsai%20Radio.jpg"
+  },
+  {
+    "channel_name": "Radio Beat LOVE",
+    "streaming_link": "https://listen.openstream.co/5770/audio",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20Beat%20LOVE.jpg"
+  },
+  {
+    "channel_name": "Tamil Amuthu Madurai Radio",
+    "streaming_link": "https://stream.zeno.fm/utmhndkgtp8uv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Amuthu%20Madurai%20Radio.jpg"
+  },
+  {
+    "channel_name": "Ceylon Mirchi FM",
+    "streaming_link": "https://ceylonmirchi-unicast2u.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Ceylon%20Mirchi%20FM.jpg"
+  },
+  {
+    "channel_name": "Valasai Vanoli",
+    "streaming_link": "https://spserver.sscast2u.in/valasaivanoli/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Valasai%20Vanoli.jpg"
+  },
+  {
+    "channel_name": "Tamil Amuthu Life Radio",
+    "streaming_link": "https://stream.zeno.fm/0x1cks0cup8uv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Amuthu%20Life%20Radio.jpg"
+  },
+  {
+    "channel_name": "RythmMix FM",
+    "streaming_link": "https://rythmmixfm.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/RythmMix%20FM.jpg"
+  },
+  {
+    "channel_name": "Paaddu FM",
+    "streaming_link": "https://sugu.radioca.st/stream/;stream/1",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Paaddu%20FM.jpg"
+  },
+  {
+    "channel_name": "Thambi FM",
+    "streaming_link": "https://stream-155.zeno.fm/zsmqq429e2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6c21xcTQyOWUyenV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkRQTmt6WHdVUzBlc294OG9rdjBqcXciLCJpYXQiOjE3NTA1MTQ4MTAsImV4cCI6MTc1MDUxNDg3MH0.mCYv9jdSTAMiLZxMf5fxkVSCYg-7yDtPgvpqq59EpBQ",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thambi%20FM.jpg"
+  },
+  {
+    "channel_name": "Covai City FM",
+    "streaming_link": "https://spserver.sscast2u.in/covaicityfm/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Covai%20City%20FM.jpg"
+  },
+  {
+    "channel_name": "Vegha FM",
+    "streaming_link": "https://ipradios.in/8010/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vegha%20FM.jpg"
+  },
+  {
+    "channel_name": "UBC Tamil Radio",
+    "streaming_link": "https://radio.openwayfm.com/radio/8030/radio.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/UBC%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "Kathir FM",
+    "streaming_link": "https://stream.zeno.fm/ce1nxbxxnrquv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kathir%20FM.jpg"
+  },
+  {
+    "channel_name": "Sydney Vanoli",
+    "streaming_link": "https://servidor23-3.brlogic.com:7022/live",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sydney%20Vanoli.jpg"
+  },
+  {
+    "channel_name": "Namma Ooru FM",
+    "streaming_link": "https://nammaoorufm-prabak78.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Namma%20Ooru%20FM.jpg"
+  },
+  {
+    "channel_name": "Annai FM",
+    "streaming_link": "https://stream-179.zeno.fm/xuqoqfdtjcquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4dXFvcWZkdGpjcXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImItYWY5eXFjU2FteFkwb0NVbFZpT3ciLCJpYXQiOjE3NTA1MTUxNjMsImV4cCI6MTc1MDUxNTIyM30.N4btCVwXWKGRfuV7IrE6IZyD-9jWeYC1ywNvDkshdI4",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Annai%20FM.jpg"
+  },
+  {
+    "channel_name": "Kollidam Radio",
+    "streaming_link": "https://spserver.sscast2u.in/kollidamradio/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kollidam%20Radio.jpg"
+  },
+  {
+    "channel_name": "ஊரி தமிழ் வானொலி- Uri",
+    "streaming_link": "https://stream.zeno.fm/e1vn44f6sfeuv",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/%E0%AE%8A%E0%AE%B0%E0%AE%BF%20%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D%20%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AF%8A%E0%AE%B2%E0%AE%BF-%20Uri.jpg"
+  },
+  {
+    "channel_name": "Iyalisai Radio",
+    "streaming_link": "https://iyalisai.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Iyalisai%20Radio.jpg"
+  },
+  {
+    "channel_name": "Lion Tamil Radio",
+    "streaming_link": "https://stream.zeno.fm/qtadbnkgeq8uv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Lion%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "Udayan Radio",
+    "streaming_link": "https://stream.zeno.fm/uf1a6guf1k0uv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Udayan%20Radio.jpg"
+  },
+  {
+    "channel_name": "Iyal Fm",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://radio.openway.lk/radio/8000/radio.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Iyal%20Fm.jpg"
+  },
+  {
+    "channel_name": "Visai Radio",
+    "streaming_link": "https://c7.radioboss.fm:18019/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Visai%20Radio.jpg"
+  },
+  {
+    "channel_name": "I Star Radio",
+    "streaming_link": "https://stream.zeno.fm/bhaubcdww8quv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/I%20Star%20Radio.jpg"
+  },
+  {
+    "channel_name": "Thamilar Radio",
+    "streaming_link": "https://s1.voscast.com:10559/live",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thamilar%20Radio.jpg"
+  },
+  {
+    "channel_name": "Scarborough Tamil Radio",
+    "streaming_link": "https://tamilradio.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Scarborough%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "Athiradi Tamil Radio",
+    "streaming_link": "https://amudhammedia.com/radio/8150/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Athiradi%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "Nakshatra Radio",
+    "streaming_link": "https://25053.live.streamtheworld.com/NAKSHATRA_S01AAC_SC",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Nakshatra%20Radio.jpg"
+  },
+  {
+    "channel_name": "Kathiravan FM",
+    "streaming_link": "https://kathiravanfm-prabak78.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kathiravan%20FM.jpg"
+  },
+  {
+    "channel_name": "Radio Thamil Lk",
+    "streaming_link": "https://s1.voscast.com:10087/stream",
+    "category": "AIR (All India Radio)",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20Thamil%20Lk.jpg"
+  },
+  {
+    "channel_name": "Radio Dhool",
+    "streaming_link": "https://audio-edge-hy4wy.blr.d.radiomast.io/19571931-e4a1-435d-88be-dc1756362ed3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20Dhool.jpg"
+  },
+  {
+    "channel_name": "Mersey Radio FM",
+    "streaming_link": "https://ec1.yesstreaming.net:1215/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Mersey%20Radio%20FM.jpg"
+  },
+  {
+    "channel_name": "Abinayam FM",
+    "streaming_link": "https://usa11.fastcast4u.com/proxy/ajaydk?mp=/;",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Abinayam%20FM.jpg"
+  },
+  {
+    "channel_name": "Ilamai FM",
+    "streaming_link": "https://stream-174.zeno.fm/0e1hpuh2t9duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwZTFocHVoMnQ5ZHV2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik5iZFJuc3liU1ZXX3dvSjBrVjhhdnciLCJpYXQiOjE3NTA1MTYxOTYsImV4cCI6MTc1MDUxNjI1Nn0.Vcx7SGnLOU4baE4RGcJkSSbbzTAzRp7g0ZhisP-mueU",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Ilamai%20FM.jpg"
+  },
+  {
+    "channel_name": "YarlSri FM",
+    "streaming_link": "https://sc.cast-control.eu/stream/yalifm/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/YarlSri%20FM.jpg"
+  },
+  {
+    "channel_name": "Thalir FM",
+    "streaming_link": "https://radio.massstream.net/8090/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thalir%20FM.jpg"
+  },
+  {
+    "channel_name": "Irai Oli",
+    "streaming_link": "https://streaming.brol.tech/rtfmlounge",
+    "category": "Christian",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Irai%20Oli.jpg"
+  },
+  {
+    "channel_name": "Kuralosai Radio",
+    "streaming_link": "https://usa9.fastcast4u.com/proxy/arnifm?mp=/1",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kuralosai%20Radio.jpg"
+  },
+  {
+    "channel_name": "SS Radio Madurai",
+    "streaming_link": "https://stream.zeno.fm/3dact43wqg0uv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/SS%20Radio%20Madurai.jpg"
+  },
+  {
+    "channel_name": "Aran FM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://94.23.30.114:8102/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Aran%20FM.jpg"
+  },
+  {
+    "channel_name": "Painthamil Vanoli",
+    "streaming_link": "https://server.unicast2u.com/radio/8380/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Painthamil%20Vanoli.jpg"
+  },
+  {
+    "channel_name": "Mjoy FM",
+    "streaming_link": "https://stream-161.zeno.fm/e7yqb8fe84zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlN3lxYjhmZTg0enV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjlvMm1hTjZBU1pxTzZSM0FuWWFmQUEiLCJpYXQiOjE3NTA1MTY2NjYsImV4cCI6MTc1MDUxNjcyNn0.CtwvDCYGT1RKAiz54nsrurl-q-zGHvLM_xhqijvnd88",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Mjoy%20FM.jpg"
+  },
+  {
+    "channel_name": "City FM",
+    "streaming_link": "https://stream-178.zeno.fm/r4znzpvskchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyNHpuenB2c2tjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im81aHR4ZEgwUlRtb1Z5anNQSzhDeHciLCJpYXQiOjE3NTA1MTY2OTMsImV4cCI6MTc1MDUxNjc1M30.2f8SeFotMlSKAvxlM2jy0J_yLRnNidEi4li5huUhOPk",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/City%20FM.jpg"
+  },
+  {
+    "channel_name": "Semmozhi FM",
+    "streaming_link": "https://e20.yesstreaming.net:8296/stream",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Semmozhi%20FM.jpg"
+  },
+  {
+    "channel_name": "Thirai FM",
+    "streaming_link": "https://stream-178.zeno.fm/nwmuzqy4ya0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJud211enF5NHlhMHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjdTTDNralJWVE5HVVZHN0w4LWtLaXciLCJpYXQiOjE3NTA1MTY3NTksImV4cCI6MTc1MDUxNjgxOX0.1wkjEIcZVxFvphz0Zrbh_bsnM7ftZ4D5rKQd4MdSzTU",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thirai%20FM.jpg"
+  },
+  {
+    "channel_name": "Sai Radio FM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://s2.voscast.com:9742/;",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sai%20Radio%20FM.jpg"
+  },
+  {
+    "channel_name": "Radio Gethu",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://procyon.shoutca.st:8902/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20Gethu.jpg"
+  },
+  {
+    "channel_name": "Vile FM",
+    "streaming_link": "https://cast1.my-control-panel.com/proxy/vaanamne/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vile%20FM.jpg"
+  },
+  {
+    "channel_name": "Natpu FM",
+    "streaming_link": "https://usa3.fastcast4u.com/proxy/natpunet?mp=/;",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Natpu%20FM.jpg"
+  },
+  {
+    "channel_name": "Jei FM",
+    "streaming_link": "https://usa3.fastcast4u.com/proxy/jeifm?mp=/1",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Jei%20FM.jpg"
+  },
+  {
+    "channel_name": "Imai FM",
+    "streaming_link": "https://centova71.instainternet.com/proxy/imaifmradio?mp=/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Imai%20FM.jpg"
+  },
+  {
+    "channel_name": "Adventist Tamil Radio",
+    "streaming_link": "https://azura.shoutca.st/radio/8180/jehovahrapha2.mp3",
+    "category": "Christian",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Adventist%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "Vijay FM Radio",
+    "streaming_link": "https://vijayfm-prabak78.radioca.st/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vijay%20FM%20Radio.jpg"
+  },
+  {
+    "channel_name": "Retro FM",
+    "streaming_link": "https://spserver.sscast2u.in/retrofmtamil/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Retro%20FM.jpg"
+  },
+  {
+    "channel_name": "Norway Radio Tamil",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://s4.voscast.com:9000/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Norway%20Radio%20Tamil.jpg"
+  },
+  {
+    "channel_name": "Adithya Tunes FM",
+    "streaming_link": "https://usa15.fastcast4u.com/proxy/adithyatunesfm?mp=/1",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Adithya%20Tunes%20FM.jpg"
+  },
+  {
+    "channel_name": "Murugan Radio",
+    "streaming_link": "https://spserver.sscast2u.in/tkmradio/stream",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Murugan%20Radio.jpg"
+  },
+  {
+    "channel_name": "Raone Radio",
+    "streaming_link": "https://eu9.fastcast4u.com/proxy/etamil?mp=/;",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Raone%20Radio.jpg"
+  },
+  {
+    "channel_name": "Kummalam Radio",
+    "streaming_link": "https://kummalam.stream.laut.fm/kummalam",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kummalam%20Radio.jpg"
+  },
+  {
+    "channel_name": "Ultra FM",
+    "streaming_link": "https://stream.zeno.fm/f2560wp9dchvv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Ultra%20FM.jpg"
+  },
+  {
+    "channel_name": "Cheemai FM",
+    "streaming_link": "https://stream-156.zeno.fm/oogj1rc9cdctv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvb2dqMXJjOWNkY3R2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImQ1WGFDT3IxU0ZTcG0zdng5aF81YnciLCJpYXQiOjE3NTA1MTcyNjYsImV4cCI6MTc1MDUxNzMyNn0.eeAVRW0XVCEK7Nsk7PaGhvs5Wdm_-88WhrGmTwr7qBo",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Cheemai%20FM.jpg"
+  },
+  {
+    "channel_name": "KA THAMIZH FM",
+    "streaming_link": "https://stream.zeno.fm/oogj1rc9cdctv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/KA%20THAMIZH%20FM.jpg"
+  },
+  {
+    "channel_name": "Jayam FM 7.1",
+    "streaming_link": "https://jayamfm-prabak78.radioca.st/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Jayam%20FM%207.1.jpg"
+  },
+  {
+    "channel_name": "Vallioor Minnal FM",
+    "streaming_link": "https://centova47.instainternet.com/proxy/angalai8/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vallioor%20Minnal%20FM.jpg"
+  },
+  {
+    "channel_name": "GTC FM",
+    "streaming_link": "https://usa13.fastcast4u.com/proxy/gtcfm?mp=/1",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/GTC%20FM.jpg"
+  },
+  {
+    "channel_name": "Anandham FM",
+    "streaming_link": "https://sp.radiotamilonline.com/8010/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Anandham%20FM.jpg"
+  },
+  {
+    "channel_name": "Nilacharal FM",
+    "streaming_link": "https://stream-178.zeno.fm/lvboft5xbbhtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsdmJvZnQ1eGJiaHR2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InROX3dEX3N5UVdDZ2JGSzJCXzBSVlEiLCJpYXQiOjE3NTA1MTc1MTAsImV4cCI6MTc1MDUxNzU3MH0.6N5w2edjRRGrPeC5f7D52R4lJ0tFXz5PCJLvg2K41jM",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Nilacharal%20FM.jpg"
+  },
+  {
+    "channel_name": "Thangam FM",
+    "streaming_link": "https://stream-173.zeno.fm/e2b3xgmdhuquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlMmIzeGdtZGh1cXV2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkRVbmN6Q0dvVHFXNU5IV3ktRzFDZkEiLCJpYXQiOjE3NTA1MTc1MzgsImV4cCI6MTc1MDUxNzU5OH0.y2BMhQEYgQQ_oIbbYlykaYL6Rwn5oRgLN1RYqBYPonM",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thangam%20FM.jpg"
+  },
+  {
+    "channel_name": "SS Tamil Radio Sivagangai",
+    "streaming_link": "https://spserver.sscast2u.in/sstamilradio/stream?n=e65242363afe40d9f404",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/SS%20Tamil%20Radio%20Sivagangai.jpg"
+  },
+  {
+    "channel_name": "Tamilnadu FM",
+    "streaming_link": "https://c38.radioboss.fm:8077/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamilnadu%20FM.jpg"
+  },
+  {
+    "channel_name": "Neha FM",
+    "streaming_link": "https://cast6.my-control-panel.com/proxy/nehafm?mp=/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Neha%20FM.jpg"
+  },
+  {
+    "channel_name": "Divine FM",
+    "streaming_link": "https://phoebe.streamerr.co:2020/;",
+    "category": "Christian",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Divine%20FM.jpg"
+  },
+  {
+    "channel_name": "Isai Paravai FM",
+    "streaming_link": "https://stream-179.zeno.fm/nzi27fhhwv3tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuemkyN2ZoaHd2M3R2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkVBS1ZMMC1MUUdXSTVfRHR4ekg3SmciLCJpYXQiOjE3NTA1MTc3MjcsImV4cCI6MTc1MDUxNzc4N30.rBFsBgXAb7E6BO5UPsJdS9F6GGSfxX9tPNgbnXf07sw",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Isai%20Paravai%20FM.jpg"
+  },
+  {
+    "channel_name": "Oli Saaral",
+    "streaming_link": "https://spserver.sscast2u.in/olisaaral/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Oli%20Saaral.jpg"
+  },
+  {
+    "channel_name": "Manvasam FM",
+    "streaming_link": "https://spserver.sscast2u.in/ssfolksongs/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Manvasam%20FM.jpg"
+  },
+  {
+    "channel_name": "Oviyam FM",
+    "streaming_link": "https://s56.radiolize.com/radio/8000/radio.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Oviyam%20FM.jpg"
+  },
+  {
+    "channel_name": "Tamil Remix Hits HD",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://62.171.162.249:8054/;stream.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Remix%20Hits%20HD.jpg"
+  },
+  {
+    "channel_name": "Isai Tamil FM",
+    "streaming_link": "https://spserver.sscast2u.in/isaitamilfm/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Isai%20Tamil%20FM.jpg"
+  },
+  {
+    "channel_name": "Magizh FM Paramakudi",
+    "streaming_link": "https://magizhfm-prabak78.radioca.st/stream?type=http&nocache=61",
+    "category": "Christian",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Magizh%20FM%20Paramakudi.jpg"
+  },
+  {
+    "channel_name": "Mazhalai Tamil Radio",
+    "streaming_link": "https://mazhalaitamilradio-prabak78.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Mazhalai%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "Sunlite FM",
+    "streaming_link": "https://stream-175.zeno.fm/axoonif2zvetv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJheG9vbmlmMnp2ZXR2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjB2eEl6NXZiVERTdEVJSFFRRjgtbFEiLCJpYXQiOjE3NTA1MTgwMDUsImV4cCI6MTc1MDUxODA2NX0.J9UA5mNPf65WWIN0pT9AOWoenVX5IL6ZiuLwYErcOKM",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sunlite%20FM.jpg"
+  },
+  {
+    "channel_name": "Sivagangai City FM",
+    "streaming_link": "https://cast6.my-control-panel.com/proxy/sivagangaicityfm?mp=/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sivagangai%20City%20FM.jpg"
+  },
+  {
+    "channel_name": "LBC Tamil",
+    "streaming_link": "https://stream.zeno.fm/chtp0cche12vv",
+    "category": "AIR (All India Radio)",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/LBC%20Tamil.jpg"
+  },
+  {
+    "channel_name": "Ragam FM Melur",
+    "streaming_link": "https://spserver.sscast2u.in/melurragamfm/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Ragam%20FM%20Melur.jpg"
+  },
+  {
+    "channel_name": "East Coast Radio",
+    "streaming_link": "https://ecrfm-prabak78.radioca.st/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/East%20Coast%20Radio.jpg"
+  },
+  {
+    "channel_name": "Hudha FM",
+    "streaming_link": "https://stream.muslimvanoli.com:1105/stream",
+    "category": "Muslim",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Hudha%20FM.jpg"
+  },
+  {
+    "channel_name": "Theni FM",
+    "streaming_link": "https://cast6.my-control-panel.com/proxy/thenifm?mp=/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Theni%20FM.jpg"
+  },
+  {
+    "channel_name": "Isai Oli FM",
+    "streaming_link": "https://centova71.instainternet.com/proxy/isaiolifmadmin?mp=/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Isai%20Oli%20FM.jpg"
+  },
+  {
+    "channel_name": "Vaanisai FM",
+    "streaming_link": "https://stream.zeno.fm/9qz2kwaknrhvv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vaanisai%20FM.jpg"
+  },
+  {
+    "channel_name": "Salem City FM",
+    "streaming_link": "https://stream-159.zeno.fm/dq6fnw0c4vuuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkcTZmbncwYzR2dXV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InBBaHVOcWI5VF95NGI0dUp1bk5yWmciLCJpYXQiOjE3NTA1MTgzNzgsImV4cCI6MTc1MDUxODQzOH0.WIThVBnfQsV6l85dKlNThNSfhNiObfHnBHig7VTCQNw",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Salem%20City%20FM.jpg"
+  },
+  {
+    "channel_name": "Alaikal FM",
+    "streaming_link": "https://centova71.instainternet.com/proxy/alaikalmedia?mp=/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Alaikal%20FM.jpg"
+  },
+  {
+    "channel_name": "Gingee FM செஞ்சி",
+    "streaming_link": "https://gingeefm-prabak78.radioca.st/stream?type=http&nocache=3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Gingee%20FM%20%E0%AE%9A%E0%AF%86%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BF.jpg"
+  },
+  {
+    "channel_name": "Thiruchitrambalam Radio",
+    "streaming_link": "https://stream.zeno.fm/k86h5327f0hvv",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thiruchitrambalam%20Radio.jpg"
+  },
+  {
+    "channel_name": "Tamizen Radio",
+    "streaming_link": "https://c34.radioboss.fm:8023/autodj",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamizen%20Radio.jpg"
+  },
+  {
+    "channel_name": "kodaisaral fm",
+    "streaming_link": "https://cast6.my-control-panel.com/proxy/kodaisaralfm/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/kodaisaral%20fm.jpg"
+  },
+  {
+    "channel_name": "Jaffna voice",
+    "streaming_link": "https://c22.radioboss.fm:8832/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Jaffna%20voice.jpg"
+  },
+  {
+    "channel_name": "Virudhai Radio",
+    "streaming_link": "https://spserver.sscast2u.in/virudhairadio/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Virudhai%20Radio.jpg"
+  },
+  {
+    "channel_name": "Arimugam Online FM",
+    "streaming_link": "https://ovps1.ulcast.com:8010/1",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Arimugam%20Online%20FM.jpg"
+  },
+  {
+    "channel_name": "Kodai Isai FM",
+    "streaming_link": "https://stream.zeno.fm/6c8k7s6nvy8uv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kodai%20Isai%20FM.jpg"
+  },
+  {
+    "channel_name": "Nesakkural UTR",
+    "streaming_link": "https://fast.citrus3.com:8202/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Nesakkural%20UTR.jpg"
+  },
+  {
+    "channel_name": "Thoothukudi Radio",
+    "streaming_link": "https://spserver.sscast2u.in/tuticorinradio/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thoothukudi%20Radio.jpg"
+  },
+  {
+    "channel_name": "Rj Tamil Pudhugai FM",
+    "streaming_link": "https://spserver.sscast2u.in/rjtamil/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Rj%20Tamil%20Pudhugai%20FM.jpg"
+  },
+  {
+    "channel_name": "Ayngaran FM",
+    "streaming_link": "https://spserver.sscast2u.in/ayngaranfm/stream",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Ayngaran%20FM.jpg"
+  },
+  {
+    "channel_name": "Kumbakonam City FM",
+    "streaming_link": "https://stream-175.zeno.fm/hrao59mmrtiuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJocmFvNTltbXJ0aXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkxqNGhYXzl6Uk9xdjV0TjBCWndkZWciLCJpYXQiOjE3NTA1MTg4MTksImV4cCI6MTc1MDUxODg3OX0.175UDsTJORyhfN1A6r8_jkrhsZOzRTDFXhppVn7LmA0",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kumbakonam%20City%20FM.jpg"
+  },
+  {
+    "channel_name": "NTM Radio Natham",
+    "streaming_link": "https://spserver.sscast2u.in/ssradionatham/stream",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/NTM%20Radio%20Natham.jpg"
+  },
+  {
+    "channel_name": "Chennai FM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://radiostar.in:8020/radio.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Chennai%20FM.jpg"
+  },
+  {
+    "channel_name": "Pudhugai FM 91.2",
+    "streaming_link": "https://cast3.asurahosting.com/proxy/pudhugai/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Pudhugai%20FM%2091.2.jpg"
+  },
+  {
+    "channel_name": "24 x 7 FM",
+    "streaming_link": "https://ec3.yesstreaming.net:4085/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/24%20x%207%20FM.jpg"
+  },
+  {
+    "channel_name": "Nila FM",
+    "streaming_link": "https://centova57.instainternet.com/proxy/nilafm?mp=/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Nila%20FM.jpg"
+  },
+  {
+    "channel_name": "Arasan Radio",
+    "streaming_link": "https://arasanradiostnd.radioca.st/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Arasan%20Radio.jpg"
+  },
+  {
+    "channel_name": "Kavinilavu FM",
+    "streaming_link": "https://cast6.my-control-panel.com/proxy/kavinilavufm/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kavinilavu%20FM.jpg"
+  },
+  {
+    "channel_name": "Kottai Siva FM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://perseverance.shoutca.st:8155/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kottai%20Siva%20FM.jpg"
+  },
+  {
+    "channel_name": "Mayiladuthurai Radio",
+    "streaming_link": "https://sp.radiotamilonline.com/8032/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Mayiladuthurai%20Radio.jpg"
+  },
+  {
+    "channel_name": "Chillax FM",
+    "streaming_link": "https://stream-157.zeno.fm/ohhsihm2byluv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvaGhzaWhtMmJ5bHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhvWWxkOHZTVC1xd0w4ZUE4NEFJSEEiLCJpYXQiOjE3NTA1MTkxMTQsImV4cCI6MTc1MDUxOTE3NH0.bT72i2UzbqXch39jLQpMRoVVETRmK9DCKAd3IJSAuVs",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Chillax%20FM.jpg"
+  },
+  {
+    "channel_name": "Covai Tamil FM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://perseverance.shoutca.st:8139/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Covai%20Tamil%20FM.jpg"
+  },
+  {
+    "channel_name": "Kodai Saral FM",
+    "streaming_link": "https://centova57.instainternet.com/proxy/kodasaralfm?mp=/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kodai%20Saral%20FM.jpg"
+  },
+  {
+    "channel_name": "Tamil Comedy Dramas",
+    "streaming_link": "https://spserver.sscast2u.in/tamildramas/stream",
+    "category": "Comedy",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Comedy%20Dramas.jpg"
+  },
+  {
+    "channel_name": "Namma Cuddalore FM",
+    "streaming_link": "https://nammacuddalorefm-prabak78.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Namma%20Cuddalore%20FM.jpg"
+  },
+  {
+    "channel_name": "Madurai Voice FM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://perseverance.shoutca.st:8151/stream",
+    "category": "Christian",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Madurai%20Voice%20FM.jpg"
+  },
+  {
+    "channel_name": "British Indian Tamil Radio",
+    "streaming_link": "https://hello.citrus3.com:2020/stream/britishindiantamilradio",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/British%20Indian%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "Pudugai City FM",
+    "streaming_link": "https://cast6.my-control-panel.com/proxy/pudhugaicityfm/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Pudugai%20City%20FM.jpg"
+  },
+  {
+    "channel_name": "Sri Vishnu FM",
+    "streaming_link": "https://spserver.sscast2u.in/srivishnufm/stream",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sri%20Vishnu%20FM.jpg"
+  },
+  {
+    "channel_name": "Theni Thendral FM",
+    "streaming_link": "https://spserver.sscast2u.in:8154/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Theni%20Thendral%20FM.jpg"
+  },
+  {
+    "channel_name": "Kulfi FM",
+    "streaming_link": "https://spserver.sscast2u.in/kulfifm/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kulfi%20FM.jpg"
+  },
+  {
+    "channel_name": "Thirumangalam City FM",
+    "streaming_link": "https://sp.radiotamilonline.com:8070/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thirumangalam%20City%20FM.jpg"
+  },
+  {
+    "channel_name": "Thennavan FM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://radiostar.in:8040/radio.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thennavan%20FM.jpg"
+  },
+  {
+    "channel_name": "Kavikkuil FM",
+    "streaming_link": "https://sp.radiotamilonline.com/kavikkuyilfm/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kavikkuil%20FM.jpg"
+  },
+  {
+    "channel_name": "Mamsai FM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://radiostar.in:8000/radio.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Mamsai%20FM.jpg"
+  },
+  {
+    "channel_name": "ThirudaN FM",
+    "streaming_link": "https://live.reinflux.com/listen/rhythms/radio.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/ThirudaN%20FM.jpg"
+  },
+  {
+    "channel_name": "Valaichudar Vanoli",
+    "streaming_link": "https://valaichudarvanoli-prabak78.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Valaichudar%20Vanoli.jpg"
+  },
+  {
+    "channel_name": "Senthamilan FM",
+    "streaming_link": "https://azura.senthamilanfm.com:8000/radio.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Senthamilan%20FM.jpg"
+  },
+  {
+    "channel_name": "Star Tamil FM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://perseverance.shoutca.st:8113/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Star%20Tamil%20FM.jpg"
+  },
+  {
+    "channel_name": "Chennai City FM",
+    "streaming_link": "https://stream-174.zeno.fm/cn8sh3supsnvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjbjhzaDNzdXBzbnZ2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik92dVNCYzYzU2xtVHVJN3VyOE1IQ3ciLCJpYXQiOjE3NTA1MTk4OTYsImV4cCI6MTc1MDUxOTk1Nn0.Bfqj9ub6xfdXsLjj2ZS3UvF3JNP8B_KdPsetxvlIQ-g",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Chennai%20City%20FM.jpg"
+  },
+  {
+    "channel_name": "Namma Chennimalai Radio HD",
+    "streaming_link": "https://spserver.sscast2u.in/chennimalairadio/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Namma%20Chennimalai%20Radio%20HD.jpg"
+  },
+  {
+    "channel_name": "MB Isai FM",
+    "streaming_link": "https://stream.zeno.fm/ex6ni5dqi27tv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/MB%20Isai%20FM.jpg"
+  },
+  {
+    "channel_name": "Boom Tamil",
+    "streaming_link": "https://s20.reliastream.com:8050/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Boom%20Tamil.jpg"
+  },
+  {
+    "channel_name": "Femi9 FM HD",
+    "streaming_link": "https://spserver.sscast2u.in/femi9fm/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Femi9%20FM%20HD.jpg"
+  },
+  {
+    "channel_name": "Senthalir FM Radio",
+    "streaming_link": "https://a5.asurahosting.com:7140/radio.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Senthalir%20FM%20Radio.jpg"
+  },
+  {
+    "channel_name": "Cheyyar City FM",
+    "streaming_link": "https://stream-174.zeno.fm/3ylcbchrchbuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzeWxjYmNocmNoYnV2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjY1MG5hTnJXUm1TNVVscVYzcU40d0EiLCJpYXQiOjE3NTA1MjAwODEsImV4cCI6MTc1MDUyMDE0MX0.D-ioFGFaaQBQbwSLLeFhP-ntQNCfSPi-5N56jNiE6PM",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Cheyyar%20City%20FM.jpg"
+  },
+  {
+    "channel_name": "Nathi FM",
+    "streaming_link": "https://centova71.instainternet.com/proxy/adminnathifm?mp=/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Nathi%20FM.jpg"
+  },
+  {
+    "channel_name": "Natham City FM",
+    "streaming_link": "https://cast6.my-control-panel.com/proxy/nathamcityfm/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Natham%20City%20FM.jpg"
+  },
+  {
+    "channel_name": "Sastha FM",
+    "streaming_link": "https://spserver.sscast2u.in/sasthafm/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sastha%20FM.jpg"
+  },
+  {
+    "channel_name": "TTG FM",
+    "streaming_link": "https://spserver.sscast2u.in/ttgfm/stream",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/TTG%20FM.jpg"
+  },
+  {
+    "channel_name": "Hello Tamizha FM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://perseverance.shoutca.st:8127/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Hello%20Tamizha%20FM.jpg"
+  },
+  {
+    "channel_name": "Sri Amman Radio",
+    "streaming_link": "https://spserver.sscast2u.in/retrofmhindi/stream",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sri%20Amman%20Radio.jpg"
+  },
+  {
+    "channel_name": "Iniya FM",
+    "streaming_link": "https://stream-178.zeno.fm/g9gb5cnthuevv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnOWdiNWNudGh1ZXZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InFDb0xpQUpYU09lSFlhdTFUY3RvLXciLCJpYXQiOjE3NTA1MjAzMzYsImV4cCI6MTc1MDUyMDM5Nn0.AUqeW4t76qsbIVVrecnvsMU1TUoldew9lhGlfua1UnQ",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Iniya%20FM.jpg"
+  },
+  {
+    "channel_name": "Thimiru FM",
+    "streaming_link": "https://stream.zeno.fm/90tz6xmnsuhvv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thimiru%20FM.jpg"
+  },
+  {
+    "channel_name": "Amaravathi Radio",
+    "streaming_link": "https://sonic-ca.instainternet.com/8014/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Amaravathi%20Radio.jpg"
+  },
+  {
+    "channel_name": "Sai Baba Radio",
+    "streaming_link": "https://spserver.sscast2u.in/sairadionatham/stream",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sai%20Baba%20Radio.jpg"
+  },
+  {
+    "channel_name": "Fire Tamil FM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://s4.voscast.com:9392/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Fire%20Tamil%20FM.jpg"
+  },
+  {
+    "channel_name": "Tube Tamil FM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://s2.voscast.com:12084/.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tube%20Tamil%20FM.jpg"
+  },
+  {
+    "channel_name": "Dakshine Radio",
+    "streaming_link": "https://spserver.sscast2u.in/dakshineradio/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Dakshine%20Radio.jpg"
+  },
+  {
+    "channel_name": "TN Vibe FM",
+    "streaming_link": "https://tnvibefm-prabak78.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/TN%20Vibe%20FM.jpg"
+  },
+  {
+    "channel_name": "Yet Radio Tamil",
+    "streaming_link": "https://ec3.yesstreaming.net:1705/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Yet%20Radio%20Tamil.jpg"
+  },
+  {
+    "channel_name": "Isai Thoorikai Radio",
+    "streaming_link": "https://centova47.instainternet.com/proxy/angalai7/stream",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Isai%20Thoorikai%20Radio.jpg"
+  },
+  {
+    "channel_name": "Saiva Tamil FM",
+    "streaming_link": "https://ins2.radiolize.com/radio/8000/radio.mp3",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Saiva%20Tamil%20FM.jpg"
+  },
+  {
+    "channel_name": "Yet Radio Melody",
+    "streaming_link": "https://ec3.yesstreaming.net:2195/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Yet%20Radio%20Melody.jpg"
+  },
+  {
+    "channel_name": "Yet Radio Voice",
+    "streaming_link": "https://ec3.yesstreaming.net:2315/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Yet%20Radio%20Voice.jpg"
+  },
+  {
+    "channel_name": "SDTP Tamil Radio",
+    "streaming_link": "https://listen.radioking.com/radio/709025/stream/774548",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/SDTP%20Tamil%20Radio.jpg"
+  },
+  {
+    "channel_name": "Yet Radio Divine",
+    "streaming_link": "https://ec3.yesstreaming.net:2305/radio",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Yet%20Radio%20Divine.jpg"
+  },
+  {
+    "channel_name": "Yet Radio Beats",
+    "streaming_link": "https://ec3.yesstreaming.net:2205/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Yet%20Radio%20Beats.jpg"
+  },
+  {
+    "channel_name": "Manidham FM",
+    "streaming_link": "https://stream.zeno.fm/y65rovpicsdvv",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Manidham%20FM.jpg"
+  },
+  {
+    "channel_name": "Erode Jai FM",
+    "streaming_link": "https://erodejaifm-prabak78.radioca.st/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Erode%20Jai%20FM.jpg"
+  },
+  {
+    "channel_name": "Amaravathi FM",
+    "streaming_link": "https://sonic-ca.instainternet.com/8014/stream",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Amaravathi%20FM.jpg"
+  },
+  {
+    "channel_name": "Deva",
+    "streaming_link": "https://stream.zeno.fm/ijpae65onobuv",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Deva.jpg"
+  },
+  {
+    "channel_name": "S Janaki",
+    "streaming_link": "https://stream.zeno.fm/nnhhfe4bv1uuv",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/S%20Janaki.jpg"
+  },
+  {
+    "channel_name": "D Imman",
+    "streaming_link": "https://stream.zeno.fm/6apkrxlnxudtv",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/D%20Imman.jpg"
+  },
+  {
+    "channel_name": "Mano",
+    "streaming_link": "https://stream.zeno.fm/maokuvdskhnuv",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Mano.jpg"
+  },
+  {
+    "channel_name": "Swarnalatha Hits",
+    "streaming_link": "https://stream.zeno.fm/gr6nspzaa48uv",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Swarnalatha%20Hits.jpg"
+  },
+  {
+    "channel_name": "Santhosh Narayanan",
+    "streaming_link": "https://stream.zeno.fm/wkqvzsg1238uv",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Santhosh%20Narayanan.jpg"
+  },
+  {
+    "channel_name": "GV Prakash",
+    "streaming_link": "https://stream.zeno.fm/c9cxafngfekvv",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/GV%20Prakash.jpg"
+  },
+  {
+    "channel_name": "MGR Sivaji Hits",
+    "streaming_link": "https://stream.zeno.fm/pq4yq4qri9yvv",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/MGR%20Sivaji%20Hits.jpg"
+  },
+  {
+    "channel_name": "Sivaji Hits",
+    "streaming_link": "https://stream.zeno.fm/kq88hd71w0hvv",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sivaji%20Hits.jpg"
+  },
+  {
+    "channel_name": "MGR Hits",
+    "streaming_link": "https://stream.zeno.fm/0muspvd4138uv",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/MGR%20Hits.jpg"
+  },
+  {
+    "channel_name": "TMS Hits",
+    "streaming_link": "https://stream.zeno.fm/qvonezatdxytv",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/TMS%20Hits.jpg"
+  },
+  {
+    "channel_name": "Ramarajan",
+    "streaming_link": "https://stream.zeno.fm/axx49t61w0hvv",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Ramarajan.jpg"
+  },
+  {
+    "channel_name": "Vadivelu Comedy",
+    "streaming_link": "https://stream.zeno.fm/02n962ezyp8uv",
+    "category": "Comedy",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vadivelu%20Comedy.jpg"
+  },
+  {
+    "channel_name": "Kirupanandha Variyar",
+    "streaming_link": "https://stream.zeno.fm/su1uch6mb2zuv",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kirupanandha%20Variyar.jpg"
+  },
+  {
+    "channel_name": "Vinayagar Radio",
+    "streaming_link": "https://stream.zeno.fm/aemyk8hnxxhvv",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vinayagar%20Radio.jpg"
+  },
+  {
+    "channel_name": "Murugar Radio",
+    "streaming_link": "https://stream.zeno.fm/cesp34u71xhvv",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Murugar%20Radio.jpg"
+  },
+  {
+    "channel_name": "Dr Sivaraman",
+    "streaming_link": "https://stream.zeno.fm/ugwpxzta53yuv",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Dr%20Sivaraman.jpg"
+  },
+  {
+    "channel_name": "Sad Songs",
+    "streaming_link": "https://stream.zeno.fm/ven997gqvtzuv",
+    "category": "24/7 Music",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sad%20Songs.jpg"
+  },
+  {
+    "channel_name": "Yuvan Shankar Raja",
+    "streaming_link": "https://stream.zeno.fm/bni50mpqxjeuv",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Yuvan%20Shankar%20Raja.jpg"
+  },
+  {
+    "channel_name": "Captain Vijayakanth",
+    "streaming_link": "https://stream.zeno.fm/yewqc3huttzuv",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Captain%20Vijayakanth.jpg"
+  },
+  {
+    "channel_name": "Silluku FM",
+    "streaming_link": "https://stream.zeno.fm/sefbv5dc84zuv",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Silluku%20FM.jpg"
+  },
+  {
+    "channel_name": "Bakthi Ula Radio",
+    "streaming_link": "https://stream.zeno.fm/v1hc1tv75zhvv",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Bakthi%20Ula%20Radio.jpg"
+  },
+  {
+    "channel_name": "Sri Rudram Radio",
+    "streaming_link": "https://stream.zeno.fm/yvnapgen4zhvv",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sri%20Rudram%20Radio.jpg"
+  },
+  {
+    "channel_name": "Sivam Radio",
+    "streaming_link": "https://stream.zeno.fm/6z3r2d4a5zhvv",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sivam%20Radio.jpg"
+  },
+  {
+    "channel_name": "Bakthi FM",
+    "streaming_link": "https://listen.openstream.co/3641/audio",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Bakthi%20FM.jpg"
+  },
+  {
+    "channel_name": "Siddhar Radio",
+    "streaming_link": "https://stream.zeno.fm/ur1xmt8hvzzuv",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Siddhar%20Radio.jpg"
+  },
+  {
+    "channel_name": "Ramanar Radio",
+    "streaming_link": "https://stream.zeno.fm/s7xde94w1zhvv",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Ramanar%20Radio.jpg"
+  },
+  {
+    "channel_name": "Annamalaiyar Radio",
+    "streaming_link": "https://stream.zeno.fm/f2yhwkmnxxhvv",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Annamalaiyar%20Radio.jpg"
+  },
+  {
+    "channel_name": "Bakthi Isai Radio",
+    "streaming_link": "https://bakthiisai-unicast2u.radioca.st/stream",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Bakthi%20Isai%20Radio.jpg"
+  },
+  {
+    "channel_name": "Thiruchitrambalam Radio",
+    "streaming_link": "https://stream.zeno.fm/k86h5327f0hvv",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thiruchitrambalam%20Radio.jpg"
+  },
+  {
+    "channel_name": "Om Sakthi Radio",
+    "streaming_link": "https://stream.zeno.fm/s4ytrdcb5zhvv",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Om%20Sakthi%20Radio.jpg"
+  },
+  {
+    "channel_name": "Amman Radio",
+    "streaming_link": "https://stream.zeno.fm/yfrcguem2zhvv",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Amman%20Radio.jpg"
+  },
+  {
+    "channel_name": "Perumal Radio",
+    "streaming_link": "https://stream.zeno.fm/zsggk6db5zhvv",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Perumal%20Radio.jpg"
+  },
+  {
+    "channel_name": "Eesan Radio",
+    "streaming_link": "https://listen.openstream.co/6314/audio",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Eesan%20Radio.jpg"
+  },
+  {
+    "channel_name": "Karuppannasami Radio",
+    "streaming_link": "https://stream.zeno.fm/c9mnfuwp3zhvv",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Karuppannasami%20Radio.jpg"
+  },
+  {
+    "channel_name": "Ayyappan Radio",
+    "streaming_link": "https://stream.zeno.fm/b69d6cnd0xhvv",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Ayyappan%20Radio.jpg"
+  },
+  {
+    "channel_name": "Polimer News",
+    "streaming_link": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/polimernews_nim_https/110322/polimernews/playlist.m3u8",
+    "category": "News",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Polimer%20News.jpg"
+  },
+  {
+    "channel_name": "Sun News",
+    "streaming_link": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8",
+    "category": "News",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sun%20News.jpg"
+  },
+  {
+    "channel_name": "Puthiya Thalaimurai",
+    "streaming_link": "https://vidcdn.vidgyor.com/ptm-origin/aslive/chunks.m3u8",
+    "category": "News",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Puthiya%20Thalaimurai.jpg"
+  },
+  {
+    "channel_name": "News 18 Tamilnadu",
+    "streaming_link": "https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/index.m3u8",
+    "category": "News",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/News%2018%20Tamilnadu.jpg"
+  }
+]
