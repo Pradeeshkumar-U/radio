@@ -811,7 +811,7 @@
   },
   {
     "channel_name": "Maha FM",
-    "streaming_link": "https://cast6.my-control-panel.com/proxy/mahafm?mp=/stream",
+    "streaming_link": "https://server1.mahamediacast.com/proxy/mahafm/stream",
     "category": "Entertainment",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Maha%20FM.jpg"
   },
@@ -877,14 +877,14 @@
   },
   {
     "channel_name": "Kodai Ragam FM",
-    "streaming_link": "https://cast6.my-control-panel.com/proxy/kodairagamradio/stream",
+    "streaming_link": "https://server1.mahamediacast.com/proxy/kodairagam/stream",
     "category": "AIR (All India Radio)",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kodai%20Ragam%20FM.jpg"
   },
   {
     "channel_name": "Radio Beat Tamil",
     "streaming_link": "https://strw3.openstream.co/673?aw_0_1st.collectionid%3D3372%26stationId%3D3372%26publisherId%3D697%26k%3D1750509474",
-    "category": "Artist",
+    "category": "24/7 Music",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20Beat%20Tamil.jpg"
   },
   {
@@ -920,7 +920,7 @@
   {
     "channel_name": "London Tamil Radio",
     "streaming_link": "https://eu4.fastcast4u.com/proxy/arun2115?mp=/1",
-    "category": "Artist",
+    "category": "24/7 Music",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/London%20Tamil%20Radio.jpg"
   },
   {
@@ -1286,7 +1286,7 @@
   {
     "channel_name": "Naga FM",
     "streaming_link": "https://live.nagafm.in:1065/stream",
-    "category": "Artist",
+    "category": "24/7 Music",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Naga%20FM.jpg"
   },
   {
@@ -1814,7 +1814,7 @@
   {
     "channel_name": "Semmozhi FM",
     "streaming_link": "https://e20.yesstreaming.net:8296/stream",
-    "category": "Artist",
+    "category": "24/7 Music",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Semmozhi%20FM.jpg"
   },
   {
@@ -2180,7 +2180,7 @@
   {
     "channel_name": "NTM Radio Natham",
     "streaming_link": "https://spserver.sscast2u.in/ssradionatham/stream",
-    "category": "Artist",
+    "category": "24/7 Music",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/NTM%20Radio%20Natham.jpg"
   },
   {
@@ -2408,7 +2408,7 @@
   {
     "channel_name": "TTG FM",
     "streaming_link": "https://spserver.sscast2u.in/ttgfm/stream",
-    "category": "Artist",
+    "category": "24/7 Music",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/TTG%20FM.jpg"
   },
   {
