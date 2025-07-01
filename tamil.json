@@ -498,6 +498,12 @@
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Rajini%20Radio.jpg"
   },
   {
+    "channel_name": "Mohan Radio",
+    "streaming_link": "https://psrlive1.listenon.in/mohan?station=mohanradio&cb=1733029548",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Mohan%20Radio.jpg"
+  },
+  {
     "channel_name": "Pasumai FM",
     "streaming_link": "https://spserver.sscast2u.in/pasumaifm/stream",
     "category": "24/7 Music",
@@ -2556,6 +2562,12 @@
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Santhosh%20Narayanan.jpg"
   },
   {
+    "channel_name": "Aniruth Radio",
+    "streaming_link": "https://psrlive1.listenon.in/anirud",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Aniruth%20Radio.jpg"
+  },
+  {
     "channel_name": "GV Prakash",
     "streaming_link": "https://stream.zeno.fm/c9cxafngfekvv",
     "category": "Artist",
@@ -2632,6 +2644,42 @@
     "streaming_link": "https://stream.zeno.fm/bni50mpqxjeuv",
     "category": "Artist",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Yuvan%20Shankar%20Raja.jpg"
+  },
+  {
+    "channel_name": "Malaysia Vasudevan",
+    "streaming_link": "https://psrlive1.listenon.in/malaysia?station=malaysiavasudevanradio",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Malaysia%20Vasudevan.jpg"
+  },
+  {
+    "channel_name": "Vidyasagar Radio",
+    "streaming_link": "https://psrlive1.listenon.in/vidyasa?station=vidyasagarradio",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vidyasagar%20Radio.jpg"
+  },
+  {
+    "channel_name": "Thala Thalapathy",
+    "streaming_link": "https://psrlive1.listenon.in/av?station=thalathalapathyradio",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thala%20Thalapathy.jpg"
+  },
+  {
+    "channel_name": "SA Rajkumar",
+    "streaming_link": "https://psrlive1.listenon.in/sar?station=sarajkumarradio",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/SA%20Rajkumar.jpg"
+  },
+  {
+    "channel_name": "Unnikrishnan Radio",
+    "streaming_link": "https://psrlive1.listenon.in/unni?station=unnikrishanradio",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Unnikrishnan%20Radio.jpg"
+  },
+  {
+    "channel_name": "Kamal Hasan",
+    "streaming_link": "https://stream.zeno.fm/we99zw61w0hvv",
+    "category": "Artist",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kamal%20Hasan.jpg"
   },
   {
     "channel_name": "Captain Vijayakanth",
