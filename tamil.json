@@ -199,7 +199,7 @@
   },
   {
     "channel_name": "Thendral FM SLBC",
-    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://220.247.227.20:8000/Threndralstream",
+    "streaming_link": "https://vobook.ru/http://220.247.227.20:8000/Threndralstream",
     "category": "24/7 Music",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thendral%20FM%20SLBC.jpg"
   },
@@ -1620,12 +1620,6 @@
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vegha%20FM.jpg"
   },
   {
-    "channel_name": "UBC Tamil Radio",
-    "streaming_link": "https://radio.openwayfm.com/radio/8030/radio.mp3",
-    "category": "24/7 Music",
-    "image_url": "https://pradeeshkumar-u.github.io/radio/images/UBC%20Tamil%20Radio.jpg"
-  },
-  {
     "channel_name": "Kathir FM",
     "streaming_link": "https://stream.zeno.fm/ce1nxbxxnrquv",
     "category": "24/7 Music",
@@ -1728,12 +1722,6 @@
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kathiravan%20FM.jpg"
   },
   {
-    "channel_name": "Radio Thamil Lk",
-    "streaming_link": "https://s1.voscast.com:10087/stream",
-    "category": "AIR (All India Radio)",
-    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20Thamil%20Lk.jpg"
-  },
-  {
     "channel_name": "Radio Dhool",
     "streaming_link": "https://audio-edge-hy4wy.blr.d.radiomast.io/19571931-e4a1-435d-88be-dc1756362ed3",
     "category": "24/7 Music",
@@ -1756,12 +1744,6 @@
     "streaming_link": "https://stream-174.zeno.fm/0e1hpuh2t9duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwZTFocHVoMnQ5ZHV2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik5iZFJuc3liU1ZXX3dvSjBrVjhhdnciLCJpYXQiOjE3NTA1MTYxOTYsImV4cCI6MTc1MDUxNjI1Nn0.Vcx7SGnLOU4baE4RGcJkSSbbzTAzRp7g0ZhisP-mueU",
     "category": "24/7 Music",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Ilamai%20FM.jpg"
-  },
-  {
-    "channel_name": "YarlSri FM",
-    "streaming_link": "https://sc.cast-control.eu/stream/yalifm/stream",
-    "category": "24/7 Music",
-    "image_url": "https://pradeeshkumar-u.github.io/radio/images/YarlSri%20FM.jpg"
   },
   {
     "channel_name": "Thalir FM",
@@ -1879,7 +1861,7 @@
   },
   {
     "channel_name": "Norway Radio Tamil",
-    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://s4.voscast.com:9000/stream",
+    "streaming_link": "https://norwayradiotamil.com/wp-content/uploads/2024/11/No10-sos-medier-konklusjon.mp3",
     "category": "24/7 Music",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Norway%20Radio%20Tamil.jpg"
   },
