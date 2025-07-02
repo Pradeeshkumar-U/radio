@@ -140,7 +140,7 @@
   {
     "channel_name": "Tamil FM",
     "streaming_link": "https://shaincast.caster.fm:47814/listen.mp3",
-    "category": "24/7 Music",
+    "category": "Top",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20FM.jpg"
   },
   {
@@ -350,7 +350,7 @@
   {
     "channel_name": "Namathu FM",
     "streaming_link": "https://s3.voscast.com:10527/stream",
-    "category": "24/7 Music",
+    "category": "Top",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Namathu%20FM.jpg"
   },
   {
@@ -368,7 +368,7 @@
   {
     "channel_name": "Sahara FM",
     "streaming_link": "https://azuracast.vibesounds.in:8000/radio.mp3",
-    "category": "24/7 Music",
+    "category": "Top",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sahara%20FM.jpg"
   },
   {
@@ -446,7 +446,7 @@
   {
     "channel_name": "Radio 008 FM",
     "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://136.243.44.41:8692/stream",
-    "category": "24/7 Music",
+    "category": "Top",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Radio%20008%20FM.jpg"
   },
   {
@@ -458,7 +458,7 @@
   {
     "channel_name": "Nanban FM",
     "streaming_link": "https://nanbanfm-unicast2u.radioca.st/stream",
-    "category": "24/7 Music",
+    "category": "Top",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Nanban%20FM.jpg"
   },
   {
@@ -626,7 +626,7 @@
   {
     "channel_name": "Instrumental Music Radio",
     "streaming_link": "https://azuracast.vibesounds.in:8030/radio.mp3",
-    "category": "24/7 Music",
+    "category": "Top",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Instrumental%20Music%20Radio.jpg"
   },
   {
@@ -668,7 +668,7 @@
   {
     "channel_name": "Vagai Tamil FM",
     "streaming_link": "https://vtfm2020-vtfm.radioca.st/stream",
-    "category": "24/7 Music",
+    "category": "Top",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vagai%20Tamil%20FM.jpg"
   },
   {
@@ -698,7 +698,7 @@
   {
     "channel_name": "Thayagam Tamil Radio",
     "streaming_link": "https://s3.yesstreaming.net:17045/stream",
-    "category": "24/7 Music",
+    "category": "Top",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thayagam%20Tamil%20Radio.jpg"
   },
   {
@@ -722,7 +722,7 @@
   {
     "channel_name": "Eagle FM HD",
     "streaming_link": "https://streaming.radio.co/sf833cd785/listen",
-    "category": "24/7 Music",
+    "category": "Top",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Eagle%20FM%20HD.jpg"
   },
   {
@@ -794,7 +794,7 @@
   {
     "channel_name": "Inbathamil oli",
     "streaming_link": "https://usa7.fastcast4u.com/proxy/ozmediae?mp=/1",
-    "category": "24/7 Music",
+    "category": "Top",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Inbathamil%20oli.jpg"
   },
   {
@@ -842,7 +842,7 @@
   {
     "channel_name": "Thavakalai Radio",
     "streaming_link": "https://aadhitamilfm-prabak78.radioca.st/stream",
-    "category": "24/7 Music",
+    "category": "Top",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thavakalai%20Radio.jpg"
   },
   {
@@ -884,7 +884,7 @@
   {
     "channel_name": "Chellam FM",
     "streaming_link": "https://sugu.radioca.st/stream/;stream/1",
-    "category": "24/7 Music",
+    "category": "Top",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Chellam%20FM.jpg"
   },
   {
@@ -902,13 +902,13 @@
   {
     "channel_name": "Adirai FM 90.4",
     "streaming_link": "https://listen.radioking.com/radio/188161/stream/230320",
-    "category": "24/7 Music",
+    "category": "Top",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Adirai%20FM%2090.4.jpg"
   },
   {
     "channel_name": "The Tamil Radio",
     "streaming_link": "https://centova.aarenworld.com/proxy/894tamilfm/stream",
-    "category": "24/7 Music",
+    "category": "Top",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/The%20Tamil%20Radio.jpg"
   },
   {
