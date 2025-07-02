@@ -164,7 +164,7 @@
   {
     "channel_name": "Kumari FM Nagercoil",
     "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/masterlist.m3u8",
-    "category": "Entertainment",
+    "category": "District",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kumari%20FM%20Nagercoil.jpg"
   },
   {
@@ -2576,7 +2576,7 @@
   {
     "channel_name": "TTG FM",
     "streaming_link": "https://spserver.sscast2u.in/ttgfm/stream",
-    "category": "24/7 Music",
+    "category": "District",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/TTG%20FM.jpg"
   },
   {
@@ -2624,13 +2624,13 @@
   {
     "channel_name": "Tube Tamil FM",
     "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://s2.voscast.com:12084/.mp3",
-    "category": "24/7 Music",
+    "category": "District",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tube%20Tamil%20FM.jpg"
   },
   {
     "channel_name": "Dakshine Radio",
     "streaming_link": "https://spserver.sscast2u.in/dakshineradio/stream",
-    "category": "24/7 Music",
+    "category": "District",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Dakshine%20Radio.jpg"
   },
   {
@@ -2660,19 +2660,19 @@
   {
     "channel_name": "Yet Radio Melody",
     "streaming_link": "https://ec3.yesstreaming.net:2195/stream",
-    "category": "24/7 Music",
+    "category": "District",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Yet%20Radio%20Melody.jpg"
   },
   {
     "channel_name": "Yet Radio Voice",
     "streaming_link": "https://ec3.yesstreaming.net:2315/stream",
-    "category": "24/7 Music",
+    "category": "District",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Yet%20Radio%20Voice.jpg"
   },
   {
     "channel_name": "SDTP Tamil Radio",
     "streaming_link": "https://listen.radioking.com/radio/709025/stream/774548",
-    "category": "24/7 Music",
+    "category": "District",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/SDTP%20Tamil%20Radio.jpg"
   },
   {
@@ -2684,7 +2684,7 @@
   {
     "channel_name": "Yet Radio Beats",
     "streaming_link": "https://ec3.yesstreaming.net:2205/stream",
-    "category": "24/7 Music",
+    "category": "District",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Yet%20Radio%20Beats.jpg"
   },
   {
