@@ -6,6 +6,72 @@
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kodai%20FM%20100.5%20MHz.jpg"
   },
   {
+    "channel_name": "Tamil Movie Radio",
+    "streaming_link": "https://cast6.my-control-panel.com/proxy/tamilmovi/live",
+    "category": "Comedy",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Movie%20Radio.jpg"
+  },
+  {
+    "channel_name": "Parithabangal Radio",
+    "streaming_link": "https://cast6.my-control-panel.com/proxy/parithabangaltwo/live",
+    "category": "Comedy",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Parithabangal%20Radio.jpg"
+  },
+  {
+    "channel_name": "Lollu Sabha radio",
+    "streaming_link": "https://cast6.my-control-panel.com/proxy/lollusabha/live",
+    "category": "Comedy",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Lollu%20Sabha%20radio.jpg"
+  },
+  {
+    "channel_name": "Patti Mandram Radio",
+    "streaming_link": "https://cast6.my-control-panel.com/proxy/pattimandram/live",
+    "category": "Comedy",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Patti%20Mandram%20Radio.jpg"
+  },
+  {
+    "channel_name": "Tamil Comedy Radios",
+    "streaming_link": "https://relay2.southradios.net/listen/tamil_comedy_radio_autodj/stream",
+    "category": "Comedy",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Comedy%20Radios.jpg"
+  },
+  {
+    "channel_name": "Goundamani Senthil Radio",
+    "streaming_link": "https://relay2.southradios.net/listen/goundamani_senthil_radio_audodj/stream",
+    "category": "Comedy",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Goundamani%20Senthil%20Radio.jpg"
+  },
+  {
+    "channel_name": "Tamil Old Movies Comedy",
+    "streaming_link": "https://cast6.my-control-panel.com/proxy/oldcomedyradio/live",
+    "category": "Comedy",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Old%20Movies%20Comedy.jpg"
+  },
+  {
+    "channel_name": "Oru Pada Comedy",
+    "streaming_link": "https://cast6.my-control-panel.com/proxy/orupadacomedy/live",
+    "category": "Comedy",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Oru%20Pada%20Comedy.jpg"
+  },
+  {
+    "channel_name": "Nagesh Radio",
+    "streaming_link": "https://cast6.my-control-panel.com/proxy/nageshradio/live",
+    "category": "Comedy",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Nagesh%20Radio.jpg"
+  },
+  {
+    "channel_name": "Tamil Comedy FM",
+    "streaming_link": "https://stream.zeno.fm/tmgktm50dzzuv",
+    "category": "Comedy",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Comedy%20FM.jpg"
+  },
+  {
+    "channel_name": "Non Stop Comedy",
+    "streaming_link": "https://stream.zeno.fm/vbvuqx3pbq8uv",
+    "category": "Comedy",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Non%20Stop%20Comedy.jpg"
+  },
+  {
     "channel_name": "Hello FM Chennai",
     "streaming_link": "https://strw3.openstream.co/1313?aw_0_1st.collectionid%3D4428%26stationId%3D4428%26publisherId%3D1337%26k%3D1750504642",
     "category": "Entertainment",
