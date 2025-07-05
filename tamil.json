@@ -415,7 +415,7 @@
   },
   {
     "channel_name": "Thendral FM SLBC",
-    "streaming_link": "https://vobook.ru/http://220.247.227.20:8000/Threndralstream",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://220.247.227.20:8000/Threndralstream",
     "category": "Top",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Thendral%20FM%20SLBC.jpg"
   },
@@ -888,12 +888,6 @@
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kalvi%20Radio.jpg"
   },
   {
-    "channel_name": "Colombo Tamil Radio",
-    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://220.247.234.207:8000/cirstream",
-    "category": "District",
-    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Colombo%20Tamil%20Radio.jpg"
-  },
-  {
     "channel_name": "CMR Tamil HD Radio",
     "streaming_link": "https://live.cmr24.net/CMR/TamilHD-HQ/icecast.audio",
     "category": "News",
@@ -1300,12 +1294,6 @@
     "streaming_link": "https://fra-ranger01.dedicateware.com:8008/stream",
     "category": "24/7 Music",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Vaanam%20FM%20HD.jpg"
-  },
-  {
-    "channel_name": "Hari Tamil FM",
-    "streaming_link": "https://haritamilfm-prabak78.radioca.st/stream",
-    "category": "News",
-    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Hari%20Tamil%20FM.jpg"
   },
   {
     "channel_name": "Dheepam FM",
@@ -2215,7 +2203,7 @@
   },
   {
     "channel_name": "Tamil Remix Hits HD",
-    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://62.171.162.249:8054/;stream.mp3",
+    "streaming_link": "https://stream.zeno.fm/xtmd1gawdg0uv",
     "category": "Entertainment",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Tamil%20Remix%20Hits%20HD.jpg"
   },
