@@ -24,9 +24,15 @@
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/RR%20Tamil%20Radio.jpg"
   },
   {
+    "channel_name": "Bairavar FM",
+    "streaming_link": "https://stream.zeno.fm/lcgep5yvp5vuv",
+    "category": "Top",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Bairavar%20FM.jpg"
+  },
+  {
     "channel_name": "Krishnagiri FM",
     "streaming_link": "https://stream.zeno.fm/wohjvs58frftv",
-    "category": "Top",
+    "category": "District",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Krishnagiri%20FM.jpg"
   },
   {
