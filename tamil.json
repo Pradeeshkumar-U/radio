@@ -30,12 +30,6 @@
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Bairavar%20FM.jpg"
   },
   {
-    "channel_name": "Krishnagiri FM",
-    "streaming_link": "https://stream.zeno.fm/wohjvs58frftv",
-    "category": "District",
-    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Krishnagiri%20FM.jpg"
-  },
-  {
     "channel_name": "DD Tamil Radio",
     "streaming_link": "https://stream.zeno.fm/ztkubnu4f41tv",
     "category": "Top",
@@ -1018,6 +1012,12 @@
     "streaming_link": "https://stream-179.zeno.fm/5axyng2g838uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1YXh5bmcyZzgzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlVEXy12R1h0UVFtLWg1OExmWnhfQXciLCJpYXQiOjE3NTA1MDkwMDUsImV4cCI6MTc1MDUwOTA2NX0.-m6AbXD2R61wk9jiqUCN72wktWk5r9ekvMjPnnMppOI",
     "category": "Entertainment",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Kanchi%20City%20FM.jpg"
+  },
+  {
+    "channel_name": "Krishnagiri FM",
+    "streaming_link": "https://stream.zeno.fm/wohjvs58frftv",
+    "category": "Entertainment",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Krishnagiri%20FM.jpg"
   },
   {
     "channel_name": "Isaiyaruvi FM",
@@ -2479,7 +2479,7 @@
   },
   {
     "channel_name": "Pudugai City FM",
-    "streaming_link": "https://cast6.my-control-panel.com/proxy/pudhugaicityfm/stream",
+    "streaming_link": "https://server1.mahamediacast.com/proxy/pudhugaicityfm/stream",
     "category": "Entertainment",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Pudugai%20City%20FM.jpg"
   },
@@ -2599,7 +2599,7 @@
   },
   {
     "channel_name": "Natham City FM",
-    "streaming_link": "https://cast6.my-control-panel.com/proxy/nathamcityfm/stream",
+    "streaming_link": "https://server1.mahamediacast.com/proxy/nathamcityfm/stream",
     "category": "Entertainment",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Natham%20City%20FM.jpg"
   },
