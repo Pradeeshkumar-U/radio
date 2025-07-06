@@ -408,6 +408,12 @@
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Arni%20City%20FM.jpg"
   },
   {
+    "channel_name": "Arni Saaral FM",
+    "streaming_link": "https://stream.zeno.fm/5dycqapghzzuv",
+    "category": "District",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Arni%20Saaral%20FM.jpg"
+  },
+  {
     "channel_name": "Sahara FM",
     "streaming_link": "https://azuracast.vibesounds.in:8000/radio.mp3",
     "category": "Top",
@@ -2587,7 +2593,7 @@
   },
   {
     "channel_name": "Cheyyar City FM",
-    "streaming_link": "https://stream-174.zeno.fm/3ylcbchrchbuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzeWxjYmNocmNoYnV2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjY1MG5hTnJXUm1TNVVscVYzcU40d0EiLCJpYXQiOjE3NTA1MjAwODEsImV4cCI6MTc1MDUyMDE0MX0.D-ioFGFaaQBQbwSLLeFhP-ntQNCfSPi-5N56jNiE6PM",
+    "streaming_link": "https://stream.zeno.fm/3ylcbchrchbuv",
     "category": "District",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Cheyyar%20City%20FM.jpg"
   },
@@ -3029,4 +3035,10 @@
     "category": "News",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/News%2018%20Tamilnadu.jpg"
   }
+  {
+    "channel_name": "Cheyyar City Bhakthi FM",
+    "streaming_link": "https://stream.zeno.fm/calbgcrlnzrtv",
+    "category": "Hindu",
+    "image_url": "https://pradeeshkumar-u.github.io/radio/images/Cheyyar%20City%20Bhakthi%20FM.jpg"
+  },
 ]
