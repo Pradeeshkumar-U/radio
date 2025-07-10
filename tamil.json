@@ -2251,7 +2251,7 @@
   },
   {
     "channel_name": "Sivagangai City FM",
-    "streaming_link": "https://cast6.my-control-panel.com/proxy/sivagangaicityfm?mp=/stream",
+    "streaming_link": "https://server1.mahamediacast.com/proxy/sivagangaicityfm/stream",
     "category": "District",
     "image_url": "https://pradeeshkumar-u.github.io/radio/images/Sivagangai%20City%20FM.jpg"
   },
